@@ -1,0 +1,50 @@
+= ISO Geodetic Registry Guides
+
+This repository contains documents related to the ISO Geodetic Registry.
+
+Upon compilation they get rendered into a Relaton collection mini-site.
+
+image:https://travis-ci.com/ISO-TC211/iso-geodetic-register-docs.svg?branch=master["Build Status", link="https://travis-ci.com/ISO-TC211/iso-geodetic-register-docs"]
+
+== Access
+
+Documents in this repository are available through the deployed mini-site:
+
+* https://iso-tc211.github.io/iso-geodetic-register-docs/[ISO Geodetic Registry Documents]
+
+
+== Fetching the documents
+
+[source,sh]
+----
+git clone https://github.com/ISO-TC211/iso-geodetic-register-docs
+----
+
+== Install Build Tools
+
+See https://www.metanorma.com/[Metanorma setup].
+
+
+== Build
+
+[source,sh]
+----
+make clean all
+----
+
+== Open the generated HTML index
+
+[source,sh]
+----
+open documents.html
+----
+
+== Publish
+
+[source,sh]
+----
+make publish
+----
+
+The generated HTML site will be prepared in `published/`.
+

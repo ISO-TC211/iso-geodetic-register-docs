@@ -1,0 +1,142 @@
+[[submitting-proposals]]
+== Submitting proposals
+
+The content of the registry is complemented and updated by the submission of proposals by submitting organizations. There are four types of proposals that may be submitted to a register (<<ISO19135>>):
+
+.Proposal types
+[cols="a,a",options="header"]
+|===
+|Type
+|Description
+
+|Addition
+|Addition is the insertion into a register of an item that describes a concept not described by an item already in the register.
+
+|Clarification
+|Clarifications correct errors in spelling, punctuation, or grammar. A clarification shall not cause any substantive semantic or technical change to a registered item.
+
+|Retirement
+|Submitting organizations may submit requests for retirement of registered items that are no longer useful for producing data. Retirement is accomplished by leaving the item in the register, marking it retired, and including the date on which it was retired.
+
+|Supersession
+|Modification of a registered item that results in substantive semantic or technical change. A supersession is accomplished by including a new item in the register with a new identifier and the date on which it superseded the original item. The original item remains in the register but includes the date at which it was superseded and a reference to the item that superseded it.
+
+|===
+
+
+=== Prerequisites
+
+To submit new content to or to update existing in the _ISO Geodetic Registry_, the following preconditions must be fulfilled:
+
+. You have created a user account (in the process you have either joined an existing organization or created a new one) and are logged in,
+
+. your organization was assigned the _Submitter_ role by the registry administrator, and
+
+. the right to act as a I was delegated to you by the Point of Contact of your organization (if you created the organization, you automatically become your organization's Point of Contact).
+
+If these preconditions are fulfilled, you will see additional action buttons when browsing the registry content.
+
+=== Submitting new content
+
+To create an addition proposal, browse to the register content by clicking on the register name or on one of the contained item classes in the application menu and subsequently press on the
+image:image-011.png[]
+button displayed above the register content.
+
+.Browsing registry content as a submitter
+====
+image::image-012.png[]
+====
+
+If the list of register item contains only items of a single item class, clicking
+image:image-011.png[]
+will lead you directly to a proposal form for this item class. Otherwise you must select the item class of your proposal in the following screen.
+
+Mandatory fields of the proposal are marked with the
+image:image-014.png[]
+icon. If you omit to fill out a mandatory field, an error message will be displayed and the omitted fields are highlighted in red once you try to save or submit the proposal. Please note that the omitted field need not necessarily be in the current tab or accordion pane. If you are unsure why an error message is displayed, make sure to check all tabs and accordion panes for omitted mandatory fields.
+
+
+.Save proposal vs. submit proposal
+[cols="a,a",options="header"]
+|===
+|Action
+|Description
+
+|Save proposal
+|The proposal is saved for later submission (cf. <<submitting-proposal>>) with the status _not yet submitted_. You may edit the proposal or start a discussion (cf. <<discussing-proposal>>).
+
+|Submit proposal
+|The proposal is submitted to the registry to be reviewed by the register manager.
+
+|===
+
+
+.Addition of a Unit of Measurement, item details
+====
+image::image-015.png[]
+====
+
+[[table-proposal-details]]
+.Proposal details
+====
+image::image-016.png[]
+====
+
+In addition to the item details, every proposal requires additional management information. The following attributes in the Proposal details section are part of every proposal (<<ISO19135>>):
+
+.Proposal details
+[cols="a,a",options="header"]
+|===
+|Attribute
+|Description
+
+|Justification
+|Explain why the proposed change should be implemented in the registry. Providing a justification is mandatory for every proposal.
+
+|Register manager notes
+|Here you may add notes relevant for the register manager's handling of the proposal. Individual entries within the notes should be dated.
+
+|Control body notes
+|Here you may add notes relevant for the control body's decision concerning the proposal. Individual entries within the notes should be dated.
+
+|===
+
+In case there are mandatory attributes not filled out when you click Save proposal or Submit proposal, the following message will appear at the bottom of the screen:
+
+.Error message on omitted mandatory field
+====
+image::image-017.png[]
+====
+
+
+=== Clarifying an item
+
+To clarify an item, press
+image:image-018.png[]
+in the Action dropdown of the item to be clarified. You will be presented with a screen similar to the one described in the previous exception. All attributes will be filled with data from the item to be clarified and you can edit the attributes that require clarification. You cannot, however, edit the identifier of an item or change links to other register item, as this does not qualify as a non-semantic change. If you wish you change these attributes, you will have to perform a Supersession instead.
+
+=== Superseding an item
+
+To supersede an item, press
+image:image-019.png[]
+in the Action dropdown of the item to be superseded. This will open a screen where you can add a new item (or multiple) new items that are to supersede the original item:
+
+.Adding successor items in a supersession
+====
+image::image-020.png[]
+====
+
+When you finished adding successors, click _Continue_ to proceed to the next screen. In the _Additional data_ tab you will have to provide proposal details as described in <<table-proposal-details>>.
+
+=== Invalidating an item
+
+To invalidate an item, press
+image:image-021.png[]
+in the _Action_ dropdown of the item to be invalidated. This will open a popup where you will have to provide proposal details as described in <<table-proposal-details>>.
+
+=== Retiring an item
+
+To retire an item, press
+image:image-022.png[]
+in the _Action_ dropdown of the item to be retired. This will open a popup where you will have to provide proposal details as described in <<table-proposal-details>>.
+

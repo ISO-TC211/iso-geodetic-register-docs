@@ -1,0 +1,184 @@
+
+[[getting-started]]
+== Getting started
+
+=== The Registry website
+
+The user interface of the online Registry system displays an application menu containing links to all Registry sections accessible to the user, including a list of registers and their respective contained item classes.
+
+=== Browsing Registry content
+
+To browse the content of the ISO Geodetic Register, click on the register's name in the application menu. If you wish to display only registered items of a certain type, click on one of the item class groups (e.g. _Coordinate Reference Systems_) or an individual item class (e.g. _Geodetic CRS_). If the item class you want to select is not visible, make sure you have opened the corresponding item class group by clicking on the
+image:image-000.png[]
+symbol positioned on the left of the item class group.
+
+.Item classes within an item class group
+====
+image::image-001.png[]
+====
+
+
+=== List of registered items
+
+When you click on an item class group or individual item class, you will be presented with a list of items of that class or classes registered in the _ISO Geodetic Register_.
+
+To sort the list, click on the column header (e.g. _Name_). To filter the list of items, enter your search keyword in the Search input box situated on the top right side of the list.
+
+
+.List of registered items
+====
+image::image-002.png[]
+====
+
+
+=== Item details
+
+To inspect the details of a registered item, open the list of registered items as described in the previous section and click on the Details button next to item you wish to view. You may wish to sort or filter the item list in order to find the desired item. After clicking on the Details button, you will be redirected to a detailed description of the register item.
+
+.Details of a registered item
+====
+image::image-003.png[]
+====
+
+
+The details view of a register item may contain textual attributes, lists as well as references to other registered items. References to other registered items are displayed as *blue links*. You can use these links to navigate directly to the details view of the referenced item.
+
+==== Management information
+
+To access additional management information of a registered item, click on the
+_Management information tab_ on the item details page.
+
+The management information tab contains information about the following events:
+
+* Addition of the item to the register (green header)
+
+* Clarifications of item details (blue header)
+
+* Supersession of the item (yellow header)
+
+* Retirement of the item (red header)
+
+* Proposed or denied changes of any kind (grey header)
+
+.Management information of a register item
+====
+image::image-004.png[]
+====
+
+For each event the following properties will be displayed:
+
+.Proposal management information
+[cols="a,3a",options="header"]
+|===
+|Property
+|Description
+
+|Sponsor
+|The organization that proposed the change.
+
+|Date proposed
+|The date the sponsor organization proposed the change.
+
+|Justification
+|The justification for the change provided by the sponsor organization.
+
+|Date disposed
+|The date the control body of the ISO Geodetic Register decided on the proposal.
+
+|Disposition
+|The control body's decision (accepted or rejected) or withdrawn if the proposal was withdrawn by the sponsor organizations before a decision was made by the control body.
+
+|Status
+|The status of the proposal (pending, final, tentative).
+
+|Control body decision event
+|The event or meeting where the proposal decision was made by the control body.
+
+|===
+
+
+
+
+=== Sign up for the Registry
+
+In order to be able to submit new content to the ISO Geodetic Registry or propose changes to existing contents, you will need to create a user account and subsequently log in to the registry software.
+
+To start the registration process, first click on Login in the upper right corner of the page and then click on the Register button. Please note that in case the open user registration has been disabled, the Register button is not visible. Please contact the register manager in this case to request a user account.
+
+
+.The Login dropdown
+====
+image::image-005.png[]
+====
+
+
+Now fill out all fields of the user registration dialog and make sure that your e-mail address is spelt correctly.
+If your organization is not in the list of organizations, check the
+_My organization is not listed_ box. Enter the name of your organization on the following page and press _Save_.
+
+
+.The sign-up form
+====
+image::image-006.png[]
+====
+
+
+The sign-up form contains the following fields:
+
+.Signup form fields
+[cols="a,2a",options="headers"]
+|===
+|Field
+|Description
+
+|Name
+|Your full name
+
+|E-mail address
+|A valid e-mail address. All registry-related e-mails will be sent to this account.
+
+|Password
+|Your password needed for subsequent logins to the registry website.
+
+|Confirm password
+|The same password for confirmation
+
+|Organization
+|Select the organization you are affiliated with. The selection of the organization influences which roles you may assume in the registry and in whose name you may make proposals to the registry, so make sure that you select the correct organization.
+
+|My organization is not listed
+|In case your organization in not listed, you must check this box and subsequently provide the name of your organization. By creating a new organization you will automatically become that organization's Point of Contact.
+
+|===
+
+
+You will receive an e-mail to confirm your registration. Please follow the instructions in the e-mail and open the contained confirmation link in your web browser.
+
+.Creating a new organization
+====
+image::image-007.png[]
+====
+
+
+You may now log in to the registry by clicking on _Login_ (top right), entering your e-mail address and password and pressing the _Login_ button.
+
+[[manage-account]]
+=== Manage your account
+
+To modify your personal details, log in to the registry and click on
+image:image-008.png[]
+on the bottom of the application menu on the left hand side.
+
+.My profile screen
+====
+image::image-009.png[]
+====
+
+If you wish to change your password, enter you new password in the _Password_ and _Confirm password_ fields before you click _Save_. If you leave both fields empty, your password will remain unchanged.
+
+At the bottom of the user profile page a list of roles with regard to the registers inside the _ISO Geodetic Registry_ is displayed. If a role was delegated to you by your organization, this is indicated by a check marked box. If your organization has a role in the register but that role was not yet delegated to you, you may request delegation of the role by clicking the
+image:image-010.png[]
+button below the role name. When you click the button, the Point of Contact of your organization is informed about your request.
+
+For more details on roles and delegations, please refer also to <<roles>>.
+

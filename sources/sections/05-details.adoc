@@ -1,0 +1,88 @@
+[[registry-details]]
+== The Registry in detail
+
+=== Registers
+
+The Registry currently consists only of the _ISO Geodetic Register_.
+
+=== Item classes
+
+The _ISO Geodetic Register_ contains the following item class groups and item classes:
+
+.Item class groups & item classes
+[cols="a,a",options="header"]
+|===
+|Item class group
+|Contained item classes
+
+|Coordinate Reference Systems
+|
+* Engineering CRS
+* Geodetic CRS
+* Projected CRS
+
+|Coordinate Systems
+|
+* Cartesian Coordinate System
+* Ellipsoidal Coordinate System
+* Spherical Coordinate System
+* Vertical Coordinate System
+
+|Datums
+|
+* Engineering Datum
+* Geodetic Datum
+* Vertical Datum
+
+|Coordinate Operations
+|
+* Concatenated Operation
+* Conversion
+* Transformation
+
+|Other
+|
+* Coordinate System Axis
+* Ellipsoid
+* Operation Method
+* Operation Parameter
+* Prime Meridian
+* Unit of Measurement
+
+|===
+
+
+[[roles]]
+=== Roles
+
+The ISO Geodetic Registry defines the following roles:
+
+.Roles in the registry
+[cols="a,a",options="header"]
+|===
+|Role
+|Definition
+
+|Submitting organization
+|Organization authorized by a register owner to propose changes to the content of a register (<<ISO19135>>)
+
+|Control Body
+|Group of technical experts that makes decisions regarding the content of a register (<<ISO19135>>)
+
+|Register Manager
+|User/organization to which management of a register has been delegated by the register owner (<<ISO19135>>)
+
+|Register Owner
+|User/organization that establishes a register (<<ISO19135>>)
+
+|Point of Contact
+|The Point of Contact is an organization-related role and gives a user the right to delegate the roles held by his organization to other users of his organization.
+
+|Administrator
+|Administrators have the right to manage registers, organizations and registry users. An administrator assigns register roles to organizations. The administrator role is global and not connected to a specific register or organization.
+
+|===
+
+
+Roles are assigned to organizations only but may be delegated to affiliated users by the organization's Point of Contact user. Users who were delegated a role may subsequently act on the organization's behalf.
+

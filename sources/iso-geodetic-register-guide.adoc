@@ -1,0 +1,42 @@
+= ISO Geodetic Registry User Guide Version 1.6
+:docnumber: 21199
+:tc-document-number: 9999
+:edition: 2
+:copyright-year: 2019
+:language: en
+:title-intro-en: Geographic information
+:title-main-en: Geodetic register user guide
+:title-intro-fr: Information géographique
+:title-main-fr: Guide de l'utilisateur du registre géodésique
+:doctype: guide
+:docstage: 60
+:docsubstage: 60
+:technical-committee-type: TC
+:technical-committee-number: 211
+:technical-committee: Geographic information
+:workgroup-type: WG
+:workgroup-number: 9
+:workgroup: Information management
+:secretariat: SIS
+:language: en
+:draft:
+:toc:
+:xrefstyle: short
+:imagesdir: images
+:docfile: iso-geodetic-register-guide.adoc
+:mn-document-class: iso
+:mn-output-extensions: xml,html,doc,html_alt
+:local-cache-only:
+:data-uri-image:
+
+include::sections/00-foreword.adoc[]
+include::sections/00-intro.adoc[]
+include::sections/01-scope.adoc[]
+include::sections/02-norm-refs.adoc[]
+include::sections/03-termsdef.adoc[]
+include::sections/04-getting-started.adoc[]
+include::sections/05-details.adoc[]
+include::sections/06-proposals.adoc[]
+include::sections/07-manage-proposals.adoc[]
+include::sections/08-manage-org.adoc[]
+include::sections/zz-references.adoc[]

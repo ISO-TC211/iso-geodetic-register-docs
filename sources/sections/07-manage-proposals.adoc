@@ -1,0 +1,169 @@
+[[managing-proposals]]
+== Managing proposals
+
+=== Tasks as a submitter
+
+If you are a _Submitter_ for your organization you will have access to the submitting organization overview page by clicking on _Submitting organization_ in the _Management_ folder of the application menu:
+
+
+.Submitting organization overview
+====
+image::image-023.png[]
+
+image::image-024.png[]
+====
+
+[[discussing-proposal]]
+==== Discussing a proposal
+
+===== Starting a discussion
+
+For proposals having the status _not yet submitted_ you may start a discussion by clicking
+image:image-025.png[]
+in the action menu next to the proposal. This will lead to a screen allowing you to invite participants to the discussion.
+
+.Starting a proposal discussion
+====
+image::image-026.png[]
+====
+
+To invite participants, enter their e-mail addresses in the text field. When you are finished, click _Start discussion_. The registry will then send e-mails to the addresses containing a link to the discussion, allowing the recipients to take part in the discussion.
+
+===== Starting a thread
+
+.Proposal discussion forum
+====
+image::image-027.png[]
+
+image::image-028.png[]
+====
+
+The proposal discussion forum gives an overview of existing threads. To view a message, click on it. The message content will be displayed in the bottom section of the screen.
+
+If there are replies to a message, a small triangle is displayed on the left side of the message entry. You can click the triangle to open the message thread.
+
+You may start new threads by clicking
+image:image-029.png[]
+or reply to a message by clicking image:image-030.png[].
+
+.Creating a forum message
+====
+image::image-031.png[]
+====
+
+
+[[withdrawing-proposal]]
+==== Withdrawing a proposal
+
+You may withdraw a proposal at any time by pressing the _Withdraw_ button for the respective proposal on the submitting organization overview page.
+
+[[submitting-proposal]]
+==== Submitting saved proposals
+
+To submit a saved proposal with the status _not yet submitted_, click on the _Submit proposal_ button in the action dropdown.
+
+[[appealing-proposal]]
+==== Appealing the control body decision
+
+A submitting organization may appeal the rejection of the proposal by the control body to the register owner by clicking _Appeal_ to owner on the rejected proposal. Appealable proposals have the status _rejected_/_appealable_.
+
+.Appealing a rejected proposal
+====
+image::image-032.png[]
+====
+
+When you appeal a rejected proposal, it is required that you provide additional information that may be used by the register owner to decide the appeal in the following screen.
+
+.Providing appeal details
+====
+image::image-033.png[]
+====
+
+.Appeal information
+[cols="a,a",options="header"]
+|===
+|Attribute
+|Description
+
+|Current situation
+|Describe the current situation (status quo), i.e. the situation before the rejected proposal was created.
+
+|Appeal justification
+|Provide a justification why you think that the control body's decision should be overruled.
+
+|Impact when appeal is rejected
+|Describe the impact when the control body's decision is not overruled.
+
+|===
+
+=== Tasks as a register manager
+
+After a new proposal has been submitted, it is the register manager's responsibility to review the proposal for completeness. The register manager returns the proposal to the submitter if the proposal is incomplete or he deems the submitting organization not qualified to make the proposal in question.
+
+To view a list of proposals that are waiting for review, click on _Register manager_ under the _Management_ folder in the application menu.
+
+.Register manager overview
+====
+image::image-034.png[]
+====
+
+To perform a review of a proposal, press the _Review_ button. You may then accept the proposal and hand it over to the control body for decision or return the proposal to the submitter for revision.
+
+.Reviewing a proposal as register manager
+====
+image::image-035.png[]
+====
+
+
+=== Tasks as a control body member
+
+If a proposal was accepted for decision by the register manager, the control body of the register must perform a thorough review of the proposal content. The control body then decides whether to accept the proposed register item into the register, to reject the proposal or to return the proposal to the submitter for revision.
+
+If you were delegated the _Control Body_ role by your organization you may review all proposals that are waiting for a decision by visiting the control body overview page (management area).
+
+.Control Body overview
+====
+image::image-036.png[]
+
+image::image-037.png[]
+====
+
+=== Discussing a proposal
+
+Although the registry software allows any user having the _Control Body_ role to decide a proposal, it may be required to involve all members of the control body in the decision.
+
+Therefore, the registry software includes a discussion forum where the proposal decision may be discussed. Refer to <<discussing-proposal>> for a detailed description of the discussion forum. As part of the discussion, the control body should decide which member will execute the proposal decision once it is made.
+
+=== Deciding a proposal
+
+To decide a proposal, one member of the control body must execute the control body's decision within the registry software. To do so, open the _Action_ dropdown of the proposal in question and click on
+image:image-038.png[]
+to open the control body review page. The following decisions are available:
+
+.Available proposal decisions
+[cols="a,a",options="header"]
+|===
+|Action
+|Description
+
+|Accept proposal
+|The proposal is accepted. You will be prompted to provide information, where and when the decision to accept the proposal was made by the control body. You should add the date and venue of the control body meeting in the course of which the proposal was decided upon.
+
+|Return to submitter
+|The proposal will be returned to the submitter and receive the status _not yet submitted_. You will be prompted to add a note to the submitter indicating why the proposal is returned.
+
+|Reject proposal
+|The proposal is rejected. You will be prompted to provide information, where and when the decision to reject the proposal was made by the control body. The submitting organization may appeal to the register owner in this case.
+
+|===
+
+.Reviewing a proposal as control body
+====
+image::image-039.png[]
+====
+
+.Preparing an appeal
+====
+image::image-040.png[]
+====
+

@@ -1,0 +1,49 @@
+[[manage-orgs]]
+== Managing your organization
+
+=== Tasks as an organization's Point of Contact
+
+Users having the role _Point of Contact_ have the right to delegate all roles assigned to their organization to users affiliated with the organization. Additionally, a Point of Contact is responsible for confirming the membership of new users and for delegating the _Point of Contact_ role to other users of the organization.
+
+If you are the Point of Contact for your organization, you will have access to the Point of Contact overview page. The link to the overview page can be found in the _Management_ folder of the application menu.
+
+.Point of Contact overview
+====
+image::image-041.png[]
+====
+
+
+
+=== Delegating rights to organization user
+
+To delegate a role to a user of your organization, click
+image::image-042.png[]
+next to the user's name. This will open a popup displaying the roles available for delegation.
+
+.Delegating roles to users
+====
+image::image-043.png[]
+====
+
+Check the appropriate roles and press _Ok_. Your changes in the popup will not be saved until you click Save in the main dialog.
+
+=== Managing role requests
+
+Users of your organization may request the delegation of roles, as described in <<manage-account>>. If a user has requested the delegation of one or more roles, the number of requested roles will appear next to the user's name like this:
+
+====
+image::image-044.png[]
+====
+
+When you open the permissions popup for that user, the requested roles will be highlighted.
+
+.Managing role requests
+====
+image::image-045.png[]
+====
+
+You can accept the request by checking the respective check box, closing the popup by clicking _Ok_, and saving the main dialog by clicking _Save_.
+
+In case you wish to deny the request, press the
+image:image-046.png[]
+button. Note that denying a role request will be saved immediately. The requesting user may, however, again request the delegation of the same role at a later time.
