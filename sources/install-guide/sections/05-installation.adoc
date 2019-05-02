@@ -1,0 +1,54 @@
+[[installation]]
+== Installation
+
+=== Prerequisites
+
+The steps in this section depend on the following assumptions.
+
+* The following components have been installed on the server:
+** OpenJDK 7 or Oracle JDK/JRE 7
+** Apache Tomcat 7.0.x
+
+*	The server can connect to a PostgreSQL instance and:
+** the database `<dbname>` for the ISO Registry was created
+** the database user `<dbuser>` with password `<dbpassword>` exists and has full rights on the `<dbname>` database
+
+* The server can connect to an SMTP server that will deliver mails sent by the registry software.
+
+The `commands` shown work on servers running Ubuntu LTS 14.04 (and possibly later Ubuntu versions). In case your server runs a different distribution you must modify the commands to fit that platform.
+
+=== Steps
+
+. Load the database dump `iso-gcp-minimal.backup` into the `isoreg` database (for example, through `PgAdmin`). +
++
+The dump contains a minimal version of the ISO Registry of Geodetic Codes and Parameters, including example users. For further details, see <<configuration>>.
+
+. Copy the web archive `iso-registry-client.war` to `<Tomcat7>/webapps`, the directory that contains Tomcat's webapps (e.g. `/var/lib/tomcat7/webapps`).
+
+. Apache Tomcat should unpack the web archive to the sub-directory `iso-registry-client`.
+
+. Stop Apache Tomcat +
++
+[source,sh]
+----
+service tomcat7 stop
+----
+
+. Change to the directory `iso-registry-client/WEB-INF/classes` and edit the following configuration files: +
+
+** `registry.configuration.xml`
+** `client.configuration.xml`
+** `hibernate.connection.xml` and
+** `hibernate.properties.xml`.
+
++
+For a list of all configuration settings, see section 1.6.
+
+. Start Apache Tomcat	+
++
+[source,sh]
+----
+service tomcat7 start
+----
+
+. To access the ISO Registry of Geodetic Codes and Parameters, open a browser and navigate to `http://<application server URL>/iso-registry-client`. For example, with Tomcat running on port `8080` on `localhost`, the URL would be http://localhost:8080/iso-registry-client.

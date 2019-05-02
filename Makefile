@@ -1,19 +1,16 @@
 #!make
 SHELL := /bin/bash
 
-include metanorma.env
-export $(shell sed 's/=.*//' metanorma.env)
-
-RELATON_COLLECTION_ORG  := "ISO/TC 211 : Geographic Information/Geomantics"
-RELATON_COLLECTION_NAME := "ISO Geodetic Register documents"
+RELATON_COLLECTION_ORG  := "ISO Geodetic Registry Registration Authority"
+RELATON_COLLECTION_NAME := "ISO Geodetic Registry Documentation"
 
 comma := ,
 empty :=
 space := $(empty) $(empty)
 
-SRC  := $(wildcard sources/*.adoc)
+SRC  := $(wildcard sources/*/document.adoc)
 INPUT_XML  := $(patsubst %.adoc,%.xml,$(SRC))
-OUTPUT_XML  := $(patsubst sources/%,documents/%,$(patsubst %.adoc,%.xml,$(SRC)))
+OUTPUT_XML  := $(patsubst sources/%,documents/%,$(patsubst %/document.adoc,%.xml,$(SRC)))
 OUTPUT_HTML := $(patsubst %.xml,%.html,$(OUTPUT_XML))
 FORMATS := xml html
 
@@ -34,8 +31,12 @@ all: documents.html
 documents:
 	mkdir -p $@
 
-documents/%.xml: documents sources/%.xml
-	mv sources/$*.{xml,html,pdf,rxl} documents
+documents/%.xml: documents sources/%/document.xml
+	mv sources/$*/document.xml documents/$*.xml; \
+	mv sources/$*/document.doc documents/$*.doc; \
+	mv sources/$*/document.html documents/$*.html; \
+	mv sources/$*/document.rxl documents/$*.rxl; \
+	mv sources/$*/document.alt.html documents/$*.alt.html;
 
 %.xml %.html:	%.adoc | bundle
 	FILENAME=$^; \
@@ -127,13 +128,4 @@ published: documents.html
 	cp $< published/index.html; \
 	if [ -d "images" ]; then cp -a images published; fi
 
-deploy_key:
-	openssl aes-256-cbc -K $(encrypted_$(ENCRYPTION_LABEL)_key) \
-		-iv $(encrypted_$(ENCRYPTION_LABEL)_iv) -in $@.enc -out $@ -d && \
-	chmod 600 $@
-
-deploy: deploy_key
-	export COMMIT_AUTHOR_EMAIL=$(COMMIT_AUTHOR_EMAIL); \
-	./deploy.sh
-
-.PHONY: publish deploy
+.PHONY: publish

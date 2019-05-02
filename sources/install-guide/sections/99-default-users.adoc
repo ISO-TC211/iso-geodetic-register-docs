@@ -1,0 +1,35 @@
+
+[appendix,obligation=informative]
+== Default users
+
+The minimal database in `iso-gcp-minimal.backup` contains the following users:
+
+[cols="2a,a,2a"]
+|===
+|Login (e-mail) |Password |Roles
+
+|admin@example.org
+|a
+|Administrator
+
+|controlbody@example.org
+|c
+|Control Body
+
+|regman@example.org
+|r
+|Register Manager
+
+|owner@example.org
+|o
+|Register Owner
+
+|submitter@example.org
+|s
+|Submitter
+
+|poc@example.org
+|p
+|Point of Contact of "`Example Organization`"
+
+|===

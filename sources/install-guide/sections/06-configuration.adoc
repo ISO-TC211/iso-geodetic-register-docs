@@ -1,0 +1,40 @@
+[[configuration]]
+== Configuration
+
+=== Database connection (`hibernate.connection.xml`)
+
+`hibernate.connection.username`:: <dbuser>
+`hibernate.connection.password`::	<dbpassword>
+`hibernate.connection.url`:: jdbc:postgresql://<dbhost>:<dbport>/isoreg
+
+=== Database parameters (`hibernate.properties.xml`)
+
+`hibernate.hbm2ddl.auto`::
+* `validate` – for standard production use
+* `update` – when performing a software update
+* `create` – when installing for the time
+
+=== Registry configuration (`registry.configuration.xml`)
+
+`mail.enabled`::
+* `true` – mail sending is enabled
+* `false` – mail sending is disabled
+
+
+`mail.from.name`::	Mail name used in From header
+`mail.from.address`::	E-mail address used in From header
+`mail.smtp.auth`::	Switch to activate SMTP authentication (true, false)
+`mail.smtp.starttls.enable`::	Switch to activate STARTTLS SMTP authentication (true, false)
+`mail.smtp.host`::	Host name or IP address of SMTP server
+`mail.smtp.port`::	Port number of SMTP server (TLS: 587, plain: 25)
+`mail.smtp.user`::	User name used for SMTP authentication
+`mail.smtp.password`::	Password used for SMTP authentication (plain text)
+
+=== Registry client configuration (`client.configuration.xml`)
+
+`basePath`::
+If you run Apache Tomcat behind a reverse proxy this parameters must be set to the context path used by external clients, preceded by a tilde. +
++
+If e.g. the registry is accessed from the outside via the URL http://registry.isotc211.org/gcp the parameter must be set to `~/gcp`. +
++
+In environments without a reverse proxy this parameters must be left empty.

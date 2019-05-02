@@ -1,0 +1,58 @@
+
+[[prerequisites]]
+== Prerequisites
+
+=== Hardware requirements
+
+Server load is difficult to predict, therefore live testing remains the best way to determine what hardware the ISO Registry instance will require in production. The values given below refer to the minimum available hardware to run the ISO Registry instance with five concurrent users.
+
+* 2 GHz+ CPU
+* 2048 MB RAM
+* 10 GB database space
+
+
+=== System requirements
+
+[cols="a,a"]
+|===
+
+|Java version
+|
+Oracle JRE / JDK:: 1.7
+OpenJDK (IcedTea):: 2.4
+
+|Operating systems for server
+|
+* Microsoft Windows
+* Linux (Ubuntu LTS 14.04+)
+
+|Application server
+|
+Apache Tomcat:: 7.0.x
+
+|Database
+|
+PostgreSQL:: 9.1, 9.2, 9.3
+
+|Web browsers – desktop
+|
+Microsoft Internet Explorer (Windows):: 10, 11
+Mozilla Firefox (all platforms):: latest stable version
+Google Chrome (Windows and Mac):: latest stable version
+
+|Web browsers – mobile
+|
+Android (Android):: the default Android browser
+Chrome (Android and iOS):: latest stable version
+
+|===
+
+
+
+=== Skill requirements
+
+This document assumes that you:
+
+* are familiar with administrating Linux systems
+* have root access to the server used for installation
+

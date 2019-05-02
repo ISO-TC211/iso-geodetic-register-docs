@@ -1,0 +1,8 @@
+
+[bibliography]
+== Bibliography
+
+* [[[ISO19111,ISO 19111:2007]]], _Spatial referencing by coordinates_
+* [[[ISO19135,ISO 19135:2005]]], _Procedures for item registration_
+* [[[ISO19135-1,ISO 19135-1]]], _Procedures for item registration -- Part 1: Fundamentals_
+* [[[ISO19135-2,ISO 19135-2:2012]]], _Procedures for item registration -- Part 2: XML schema implementation_

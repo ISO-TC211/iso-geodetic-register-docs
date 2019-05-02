@@ -1,0 +1,6 @@
+
+:sectnums:
+== Scope
+
+This document describes installation requirements and
+procedures for the ISO Geodetic Registry.

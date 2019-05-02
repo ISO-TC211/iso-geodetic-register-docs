@@ -1,0 +1,44 @@
+
+[[terms]]
+[source=ISO19127]
+== Terms and definitions
+
+=== Symbols
+
+==== `<Tomcat7>`
+
+path to Apache Tomcat 7
+
+[example]
+`/var/lib/tomcat7`
+
+==== `<dbserver>`
+
+host name or IP address of the PostgreSQL server
+
+==== `<dbport>`
+
+port of the PostgreSQL server
+
+==== `<dbname>`
+
+name of the PostgreSQL database
+
+==== `<dbuser>`
+
+PostgreSQL login role that has full rights on the `<dbname>` database
+
+==== `<dbpassword>`
+
+password of `<dbuser>`
+
+==== `<host>`
+
+host name or IP address of the installation server
+
+==== `<port>`
+
+port where Apache Tomcat listens for HTTP requests
+
+[example]
+8080

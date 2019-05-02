@@ -1,0 +1,5 @@
+
+:sectnums:
+== Scope
+
+This document is user manual for users of the ISO Geodetic Registry.

@@ -1,0 +1,26 @@
+[[introduction]]
+
+:sectnums!:
+== Introduction
+
+=== General
+
+This document describes installation requirements and
+procedures for the ISO Geodetic Registry.
+
+The intended audiences are operators and developers
+of the ISO Geodetic Registry system.
+
+=== The ISO Geodetic Registry
+
+The ISO Geodetic Registry is a structured database of coordinate
+reference systems and transformations that is accessible through an
+on-line registry system.
+
+This Registry is provided under the auspices of ISO Technical
+Committee 211 on geographic information/geomatics and conforms to
+ISO standards:
+
+* <<ISO19111>>;
+* <<ISO19127>>;
+* <<ISO19135>>, <<ISO19135-1>> and <<ISO19135-2>>.

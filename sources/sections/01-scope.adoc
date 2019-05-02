@@ -1,9 +1,0 @@
-
-:sectnums:
-== Scope
-
-This International Standard provides a code for the
-presentation of script conversion systems.
-
-The codes were devised for usage of any application requiring
-the expression of script conversion systems, including transliteration and romanization systems, in coded form.

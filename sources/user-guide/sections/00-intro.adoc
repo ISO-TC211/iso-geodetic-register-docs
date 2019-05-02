@@ -3,7 +3,7 @@
 :sectnums!:
 == Introduction
 
-This document is a manual for users of the ISO Geodetic Registry.
+This document is user manual for users of the ISO Geodetic Registry.
 
 
 == What is the ISO Geodetic Registry?

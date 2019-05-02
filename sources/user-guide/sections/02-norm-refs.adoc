@@ -1,0 +1,5 @@
+
+[bibliography]
+== Normative References
+
+* [[[ISO19127,ISO 19127]]], _Geodetic register_
