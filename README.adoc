@@ -10,7 +10,7 @@ image:https://travis-ci.com/ISO-TC211/iso-geodetic-register-docs.svg?branch=mast
 
 Documents in this repository are available through the deployed mini-site:
 
-* https://iso-tc211.github.io/iso-geodetic-register-docs/[ISO Geodetic Registry Documents]
+* https://iso-tc211.github.io/iso-geodetic-register-docs/[ISO Geodetic Registry Documentation]
 
 
 == Fetching the documents
