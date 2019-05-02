@@ -125,7 +125,6 @@ publish: published
 published: documents.html
 	mkdir -p published && \
 	cp -a documents $@/ && \
-	cp $< published/index.html; \
-	if [ -d "images" ]; then cp -a images published; fi
+	cp $< published/index.html
 
 .PHONY: publish
