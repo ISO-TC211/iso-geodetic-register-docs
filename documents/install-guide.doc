@@ -1,0 +1,3270 @@
+MIME-Version: 1.0
+Content-Type: multipart/related; boundary="----=_NextPart_e3b579eb.9724.4dc8"
+
+------=_NextPart_e3b579eb.9724.4dc8
+Content-Location: file:///C:/Doc/document.htm
+Content-Type: text/html; charset="utf-8"
+
+<?xml version="1.0"?>
+<html xmlns:epub="http://www.idpf.org/2007/ops" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40">
+  <head><!--[if gte mso 9]>
+<xml>
+<w:WordDocument>
+<w:View>Print</w:View>
+<w:Zoom>100</w:Zoom>
+<w:DoNotOptimizeForBrowser/>
+</w:WordDocument>
+</xml>
+<![endif]-->
+<meta http-equiv=Content-Type content="text/html; charset=utf-8"/>
+
+  <link rel=File-List href="document_files/filelist.xml"/>
+<style>
+  <!--
+@charset "UTF-8";
+/* Font Definitions */
+@font-face {
+  font-family: Arial;
+  panose-1: 2 11 6 4 2 2 2 2 2 4;
+  mso-font-charset: 0;
+  mso-generic-font-family: swiss;
+  mso-font-pitch: variable;
+  mso-font-signature: -536859905 -1073711037 9 0 511 0; }
+
+@font-face {
+  font-family: "Courier New";
+  panose-1: 2 7 3 9 2 2 5 2 4 4;
+  mso-font-charset: 0;
+  mso-generic-font-family: roman;
+  mso-font-pitch: fixed;
+  mso-font-signature: -536859905 -1073711037 9 0 511 0; }
+
+@font-face {
+  font-family: "Cambria Math";
+  panose-1: 2 4 5 3 5 4 6 3 2 4;
+  mso-font-charset: 0;
+  mso-generic-font-family: roman;
+  mso-font-pitch: variable;
+  mso-font-signature: -536870145 1107305727 0 0 415 0; }
+
+@font-face {
+  font-family: Calibri;
+  panose-1: 2 15 5 2 2 2 4 3 2 4;
+  mso-font-charset: 0;
+  mso-generic-font-family: swiss;
+  mso-font-pitch: variable;
+  mso-font-signature: -536870145 1073786111 1 0 415 0; }
+
+@font-face {
+  font-family: Cambria;
+  panose-1: 2 4 5 3 5 4 6 3 2 4;
+  mso-font-charset: 0;
+  mso-generic-font-family: roman;
+  mso-font-pitch: variable;
+  mso-font-signature: -536870145 1073743103 0 0 415 0; }
+
+@font-face {
+  font-family: "Malgun Gothic";
+  panose-1: 2 11 5 3 2 0 0 2 0 4;
+  mso-font-charset: 129;
+  mso-generic-font-family: swiss;
+  mso-font-pitch: variable;
+  mso-font-signature: -1879048145 701988091 18 0 524289 0; }
+
+@font-face {
+  font-family: "Cambria", serif;
+  panose-1: 2 2 6 9 4 2 5 8 3 4;
+  mso-font-charset: 128;
+  mso-generic-font-family: roman;
+  mso-font-pitch: fixed;
+  mso-font-signature: -536870145 1791491579 134217746 0 131231 0; }
+
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal {
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "";
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  margin-left: 0cm;
+  text-align: justify;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt;
+  font-size: 11.0pt;
+  font-family: "Cambria", serif;
+  mso-fareast-font-family: "Cambria", serif;
+  mso-bidi-font-family: "Cambria", serif;
+  mso-ansi-language: EN-GB; }
+
+p.MsoNormalIndent, li.MsoNormalIndent, div.MsoNormalIndent {
+  mso-style-priority: 99;
+  margin-top: 0cm;
+  margin-right: 36.0cm;
+  margin-bottom: 0cm;
+  margin-left: 36.0pt;
+  text-align: justify;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt;
+  font-size: 11.0pt;
+  font-family: "Cambria", serif;
+  mso-fareast-font-family: "Cambria", serif;
+  mso-bidi-font-family: "Cambria", serif;
+  mso-ansi-language: EN-GB; }
+
+p.MsoBlockText, li.MsoBlockText, div.MsoBlockText {
+  mso-style-priority: 99;
+  margin-top: 0cm;
+  margin-right: 57.6pt;
+  margin-bottom: 0cm;
+  margin-left: 57.6pt;
+  margin-bottom: .0001pt;
+  mso-pagination: widow-orphan;
+  border: none;
+  mso-border-alt: solid #4472C4 .25pt;
+  mso-border-themecolor: accent1;
+  padding: 0cm;
+  mso-padding-alt: 10.0pt 10.0pt 10.0pt 10.0pt;
+  font-size: 12.0pt;
+  font-family: "Cambria", serif;
+  mso-ascii-font-family: "Cambria", serif;
+  mso-ascii-theme-font: minor-latin;
+  mso-fareast-font-family: "Cambria", serif;
+  mso-fareast-theme-font: minor-fareast;
+  mso-hansi-font-family: "Cambria", serif;
+  mso-hansi-theme-font: minor-latin;
+  mso-bidi-font-family: "Cambria", serif;
+  mso-bidi-theme-font: minor-bidi;
+  color: #4472C4;
+  mso-themecolor: accent1;
+  mso-ansi-language: EN-AU;
+  font-style: italic; }
+
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph {
+  mso-style-priority: 34;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  /* do not put in margin-left, it is specific to list level */
+  mso-pagination: widow-orphan;
+  font-size: 11.0pt;
+  font-family: "Cambria", serif;
+  mso-ansi-language: EN-AU;
+  mso-fareast-language: EN-US; }
+
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst {
+  mso-style-priority: 34;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-type: export-only;
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  /* do not put in margin-left, it is specific to list level */
+  mso-pagination: widow-orphan;
+  font-size: 11.0pt;
+  font-family: "Cambria", serif;
+  mso-ansi-language: EN-AU;
+  mso-fareast-language: EN-US; }
+
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle {
+  mso-style-priority: 34;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-type: export-only;
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  /* do not put in margin-left, it is specific to list level */
+  mso-pagination: widow-orphan;
+  font-size: 11.0pt;
+  font-family: "Cambria", serif;
+  mso-ansi-language: EN-AU;
+  mso-fareast-language: EN-US; }
+
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast {
+  mso-style-priority: 34;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-type: export-only;
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  /* do not put in margin-left, it is specific to list level */
+  mso-pagination: widow-orphan;
+  font-size: 11.0pt;
+  font-family: "Cambria", serif;
+  mso-ansi-language: EN-AU;
+  mso-fareast-language: EN-US; }
+
+div.figure {
+  text-align: center; }
+
+h1 {
+  mso-style-priority: 1;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-link: "Heading 1 Char";
+  mso-style-next: Normal;
+  margin-top: 13.5pt;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  line-height: 13.5pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-outline-level: 1;
+  mso-list: l1 level1 lfo6;
+  mso-hyphenate: none;
+  tab-stops: 20.0pt list 21.6pt left 28.0pt;
+  font-size: 13.0pt;
+  mso-bidi-font-size: 11.0pt;
+  font-family: "Cambria", serif;
+  mso-fareast-font-family: "Cambria", serif;
+  mso-font-kerning: 0pt;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  mso-bidi-font-weight: normal; }
+
+h1.Annex {
+  mso-style-priority: 1;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-link: "Heading 1 Char";
+  mso-style-next: Normal;
+  margin-top: 13.5pt;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  line-height: 13.5pt;
+  text-align: center;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  font-weight: normal;
+  mso-outline-level: 1;
+  mso-list: l1 level1 lfo6;
+  mso-hyphenate: none;
+  tab-stops: 20.0pt list 21.6pt left 28.0pt;
+  font-size: 13.0pt;
+  mso-bidi-font-size: 11.0pt;
+  font-family: "Cambria", serif;
+  mso-fareast-font-family: "Cambria", serif;
+  mso-font-kerning: 0pt;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  mso-bidi-font-weight: normal; }
+
+.h2Annex, h2 {
+  mso-style-priority: 2;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "Heading 1";
+  mso-style-link: "Heading 2 Char";
+  mso-style-next: Normal;
+  margin-top: 3.0pt;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  line-height: 12.5pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-outline-level: 2;
+  mso-hyphenate: none;
+  tab-stops: 27.0pt 35.0pt;
+  font-size: 12.0pt;
+  font-weight: bold;
+  mso-bidi-font-size: 11.0pt;
+  font-family: "Cambria", serif;
+  mso-fareast-font-family: "Cambria", serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  mso-bidi-font-weight: normal; }
+
+h2 {
+  mso-list: l1 level2 lfo6; }
+
+.h3Annex, h3 {
+  mso-style-priority: 3;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "Heading 1";
+  mso-style-link: "Heading 3 Char";
+  mso-style-next: Normal;
+  margin-top: 3.0pt;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-outline-level: 3;
+  mso-hyphenate: none;
+  tab-stops: list 36.0pt left 44.0pt;
+  font-size: 11.0pt;
+  font-family: "Cambria", serif;
+  mso-fareast-font-family: "Cambria", serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  mso-bidi-font-weight: normal; }
+
+h3 {
+  mso-list: l1 level3 lfo6; }
+
+.h4Annex, h4 {
+  mso-style-priority: 4;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "Heading 3";
+  mso-style-link: "Heading 4 Char";
+  mso-style-next: Normal;
+  margin-top: 3.0pt;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-outline-level: 4;
+  mso-hyphenate: none;
+  tab-stops: 51.05pt 57.0pt 68.0pt;
+  font-size: 11.0pt;
+  font-family: "Cambria", serif;
+  mso-fareast-font-family: "Cambria", serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  mso-bidi-font-weight: normal; }
+
+h4 {
+  mso-list: l1 level4 lfo6; }
+
+.h5Annex, h5 {
+  mso-style-priority: 5;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "Heading 4";
+  mso-style-link: "Heading 5 Char";
+  mso-style-next: Normal;
+  margin-top: 3.0pt;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-outline-level: 5;
+  mso-hyphenate: none;
+  tab-stops: 51.05pt list 54.0pt;
+  font-size: 11.0pt;
+  font-family: "Cambria", serif;
+  mso-fareast-font-family: "Cambria", serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  mso-bidi-font-weight: normal; }
+
+h5 {
+  mso-list: l1 level5 lfo6; }
+
+h6 {
+  mso-style-priority: 6;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "Heading 5";
+  mso-style-link: "Heading 6 Char";
+  mso-style-next: Normal;
+  margin-top: 3.0pt;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-outline-level: 6;
+  mso-hyphenate: none;
+  tab-stops: 51.05pt list 72.0pt;
+  font-size: 11.0pt;
+  font-family: "Cambria", serif;
+  mso-fareast-font-family: "Cambria", serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  mso-bidi-font-weight: normal; }
+
+h6 {
+  mso-list: l1 level6 lfo6; }
+
+p.MsoToc1, li.MsoToc1, div.MsoToc1 {
+  mso-style-priority: 39;
+  mso-style-unhide: no;
+  mso-style-next: Normal;
+  margin-top: 6.0pt;
+  margin-right: 25.0pt;
+  margin-bottom: 0cm;
+  margin-left: 36.0pt;
+  margin-bottom: .0001pt;
+  text-indent: -36.0pt;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  mso-hyphenate: none;
+  tab-stops: 20.15pt 36.0pt right dotted 487.6pt;
+  font-size: 11.0pt;
+  font-family: "Cambria", serif;
+  mso-fareast-font-family: "Cambria", serif;
+  mso-bidi-font-family: "Cambria", serif;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+p.MsoToc2, li.MsoToc2, div.MsoToc2 {
+  mso-style-noshow: yes;
+  mso-style-priority: 39;
+  mso-style-unhide: no;
+  mso-style-parent: "TOC 1";
+  mso-style-next: Normal;
+  margin-top: 0cm;
+  margin-right: 25.0pt;
+  margin-bottom: 0cm;
+  margin-left: 36.0pt;
+  margin-bottom: .0001pt;
+  text-indent: -36.0pt;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  mso-hyphenate: none;
+  tab-stops: 20.15pt 36.0pt right dotted 487.6pt;
+  font-size: 11.0pt;
+  font-family: "Cambria", serif;
+  mso-fareast-font-family: "Cambria", serif;
+  mso-bidi-font-family: "Cambria", serif;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+p.MsoToc3, li.MsoToc3, div.MsoToc3 {
+  mso-style-noshow: yes;
+  mso-style-priority: 39;
+  mso-style-unhide: no;
+  mso-style-parent: "TOC 2";
+  mso-style-next: Normal;
+  margin-top: 0cm;
+  margin-right: 25.0pt;
+  margin-bottom: 0cm;
+  margin-left: 36.0pt;
+  margin-bottom: .0001pt;
+  text-indent: -36.0pt;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  mso-hyphenate: none;
+  tab-stops: 20.15pt 36.0pt right dotted 487.6pt;
+  font-size: 11.0pt;
+  font-family: "Cambria", serif;
+  mso-fareast-font-family: "Cambria", serif;
+  mso-bidi-font-family: "Cambria", serif;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+p.MsoHeader, li.MsoHeader, div.MsoHeader {
+  mso-style-noshow: yes;
+  mso-style-priority: 99;
+  mso-style-unhide: no;
+  mso-style-link: "Header Char";
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 30.0pt;
+  margin-left: 0cm;
+  text-align: justify;
+  line-height: 11.0pt;
+  mso-line-height-rule: exactly;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt;
+  font-size: 11.0pt;
+  font-family: "Cambria", serif;
+  mso-fareast-font-family: "Cambria", serif;
+  mso-bidi-font-family: "Cambria", serif;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+p.MsoFooter, li.MsoFooter, div.MsoFooter {
+  mso-style-noshow: yes;
+  mso-style-priority: 99;
+  mso-style-unhide: no;
+  mso-style-link: "Footer Char";
+  margin-top: 18.0pt;
+  margin-right: 0cm;
+  margin-bottom: 6.0pt;
+  margin-left: 0cm;
+  text-align: justify;
+  line-height: 11.0pt;
+  mso-line-height-rule: exactly;
+  mso-pagination: widow-orphan;
+  tab-stops: right 487.6pt;
+  font-size: 11.0pt;
+  font-family: "Cambria", serif;
+  mso-fareast-font-family: "Cambria", serif;
+  mso-bidi-font-family: "Cambria", serif;
+  mso-ansi-language: EN-GB; }
+
+span.MsoFootnoteReference {
+  mso-style-priority: 99;
+  vertical-align: super; }
+
+p.MsoFootnoteText, li.MsoFootnoteText, div.MsoFootnoteText {
+  mso-style-noshow: yes;
+  mso-style-priority: 99;
+  mso-style-link: "Footnote Text Char";
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  margin-left: 0cm;
+  text-align: justify;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt;
+  font-size: 10.0pt;
+  font-family: "Cambria", serif;
+  mso-fareast-font-family: "Cambria", serif;
+  mso-bidi-font-family: "Cambria", serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: EN-US; }
+
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText {
+  mso-style-noshow: yes;
+  mso-style-priority: 99;
+  mso-style-unhide: no;
+  mso-style-link: "Body Text Char";
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 6.0pt;
+  margin-left: 0cm;
+  text-align: justify;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  font-size: 11.0pt;
+  font-family: "Cambria", serif;
+  mso-fareast-font-family: "Cambria", serif;
+  mso-bidi-font-family: "Cambria", serif;
+  mso-ansi-language: EN-GB; }
+
+a:link, span.MsoHyperlink {
+  mso-style-priority: 99;
+  mso-style-unhide: no;
+  mso-style-parent: "";
+  mso-ansi-language: EN;
+  color: black;
+  text-decoration: none; }
+
+a:visited, span.MsoHyperlinkFollowed {
+  mso-style-noshow: yes;
+  mso-style-priority: 99;
+  mso-themecolor: followedhyperlink;
+  text-decoration: none;
+  color: black; }
+
+span.MsoPlaceholderText {
+  mso-style-noshow: yes;
+  mso-style-priority: 99;
+  mso-style-unhide: no;
+  mso-style-parent: "";
+  color: gray; }
+
+span.Heading1Char {
+  mso-style-name: "Heading 1 Char";
+  mso-style-priority: 1;
+  mso-style-unhide: no;
+  mso-style-locked: yes;
+  mso-style-parent: "";
+  mso-style-link: "Heading 1";
+  mso-ansi-font-size: 13.0pt;
+  font-family: "Cambria", serif;
+  mso-ascii-font-family: Cambria;
+  mso-fareast-font-family: "Cambria", serif;
+  mso-hansi-font-family: "Cambria", serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+span.Heading2Char {
+  mso-style-name: "Heading 2 Char";
+  mso-style-priority: 2;
+  mso-style-unhide: no;
+  mso-style-locked: yes;
+  mso-style-parent: "";
+  mso-style-link: "Heading 2";
+  mso-ansi-font-size: 12.0pt;
+  font-family: "Cambria", serif;
+  mso-ascii-font-family: Cambria;
+  mso-fareast-font-family: "Cambria", serif;
+  mso-hansi-font-family: "Cambria", serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+span.Heading3Char {
+  mso-style-name: "Heading 3 Char";
+  mso-style-priority: 3;
+  mso-style-unhide: no;
+  mso-style-locked: yes;
+  mso-style-parent: "";
+  mso-style-link: "Heading 3";
+  mso-ansi-font-size: 11.0pt;
+  font-family: "Cambria", serif;
+  mso-ascii-font-family: "Cambria", serif;
+  mso-fareast-font-family: "Cambria", serif;
+  mso-hansi-font-family: "Cambria", serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+span.Heading4Char {
+  mso-style-name: "Heading 4 Char";
+  mso-style-priority: 4;
+  mso-style-unhide: no;
+  mso-style-locked: yes;
+  mso-style-parent: "";
+  mso-style-link: "Heading 4";
+  mso-ansi-font-size: 11.0pt;
+  font-family: "Cambria", serif;
+  mso-ascii-font-family: "Cambria", serif;
+  mso-fareast-font-family: "Cambria", serif;
+  mso-hansi-font-family: "Cambria", serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+span.Heading5Char {
+  mso-style-name: "Heading 5 Char";
+  mso-style-priority: 5;
+  mso-style-unhide: no;
+  mso-style-locked: yes;
+  mso-style-parent: "";
+  mso-style-link: "Heading 5";
+  mso-ansi-font-size: 11.0pt;
+  font-family: "Cambria", serif;
+  mso-ascii-font-family: "Cambria", serif;
+  mso-fareast-font-family: "Cambria", serif;
+  mso-hansi-font-family: "Cambria", serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+span.Heading6Char {
+  mso-style-name: "Heading 6 Char";
+  mso-style-priority: 6;
+  mso-style-unhide: no;
+  mso-style-locked: yes;
+  mso-style-parent: "";
+  mso-style-link: "Heading 6";
+  mso-ansi-font-size: 11.0pt;
+  font-family: "Cambria", serif;
+  mso-ascii-font-family: "Cambria", serif;
+  mso-fareast-font-family: "Cambria", serif;
+  mso-hansi-font-family: "Cambria", serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+p.a2, li.a2, div.a2 {
+  mso-style-name: a2;
+  mso-style-priority: 11;
+  mso-style-unhide: no;
+  mso-style-next: Normal;
+  margin-top: 13.5pt;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  line-height: 13.5pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-outline-level: 1;
+  mso-list: l0 level2 lfo12;
+  tab-stops: 1.0cm 36.0pt;
+  font-size: 13.0pt;
+  mso-bidi-font-size: 11.0pt;
+  font-family: "Cambria", serif;
+  mso-fareast-font-family: "Cambria", serif;
+  mso-bidi-font-family: "Cambria", serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+p.a3, li.a3, div.a3 {
+  mso-style-name: a3;
+  mso-style-priority: 12;
+  mso-style-unhide: no;
+  mso-style-next: Normal;
+  margin-top: 3.0pt;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  line-height: 12.5pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-outline-level: 1;
+  mso-list: l0 level3 lfo12;
+  tab-stops: 20.15pt list 36.0pt;
+  font-size: 12.0pt;
+  mso-bidi-font-size: 11.0pt;
+  font-family: "Cambria", serif;
+  mso-fareast-font-family: "Cambria", serif;
+  mso-bidi-font-family: "Cambria", serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+p.a4, li.a4, div.a4 {
+  mso-style-name: a4;
+  mso-style-priority: 13;
+  mso-style-unhide: no;
+  mso-style-next: Normal;
+  margin-top: 3.0pt;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-outline-level: 1;
+  mso-list: l0 level4 lfo12;
+  tab-stops: 20.15pt 44.0pt list 54.0pt;
+  font-size: 11.0pt;
+  font-family: "Cambria", serif;
+  mso-fareast-font-family: "Cambria", serif;
+  mso-bidi-font-family: "Cambria", serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  font-weight: bold;
+  mso-bidi-font-style: italic; }
+
+p.a5, li.a5, div.a5 {
+  mso-style-name: a5;
+  mso-style-priority: 14;
+  mso-style-unhide: no;
+  mso-style-next: Normal;
+  margin-top: 3.0pt;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-outline-level: 1;
+  mso-list: l0 level5 lfo12;
+  tab-stops: 20.15pt list 54.0pt left 62.35pt 68.0pt;
+  font-size: 11.0pt;
+  font-family: "Cambria", serif;
+  mso-fareast-font-family: "Cambria", serif;
+  mso-bidi-font-family: "Cambria", serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  font-weight: bold;
+  mso-bidi-font-style: italic; }
+
+p.a6, li.a6, div.a6 {
+  mso-style-name: a6;
+  mso-style-priority: 15;
+  mso-style-unhide: no;
+  mso-style-next: Normal;
+  margin-top: 3.0pt;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-outline-level: 1;
+  mso-list: l0 level6 lfo12;
+  tab-stops: 20.15pt 62.35pt 68.0pt list 72.0pt;
+  font-size: 11.0pt;
+  font-family: "Cambria", serif;
+  mso-fareast-font-family: "Cambria", serif;
+  mso-bidi-font-family: "Cambria", serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  font-weight: bold; }
+
+span.FooterChar {
+  mso-style-name: "Footer Char";
+  mso-style-noshow: yes;
+  mso-style-priority: 99;
+  mso-style-unhide: no;
+  mso-style-locked: yes;
+  mso-style-parent: "";
+  mso-style-link: Footer;
+  mso-ansi-font-size: 11.0pt;
+  mso-bidi-font-size: 11.0pt;
+  mso-ansi-language: EN-GB; }
+
+span.HeaderChar {
+  mso-style-name: "Header Char";
+  mso-style-noshow: yes;
+  mso-style-priority: 99;
+  mso-style-unhide: no;
+  mso-style-locked: yes;
+  mso-style-parent: "";
+  mso-style-link: Header;
+  mso-ansi-font-size: 11.0pt;
+  mso-bidi-font-size: 11.0pt;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+span.BodyTextChar {
+  mso-style-name: "Body Text Char";
+  mso-style-noshow: yes;
+  mso-style-priority: 99;
+  mso-style-unhide: no;
+  mso-style-locked: yes;
+  mso-style-parent: "";
+  mso-style-link: "Body Text";
+  mso-ansi-font-size: 11.0pt;
+  mso-bidi-font-size: 11.0pt;
+  font-family: "Cambria", serif;
+  mso-fareast-font-family: "Cambria", serif;
+  mso-ansi-language: EN-GB; }
+
+p.MsoCommentText, li.MsoCommentText, div.MsoCommentText {
+  mso-style-noshow: yes;
+  mso-style-priority: 99;
+  mso-style-link: "Comment Text Char";
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  margin-left: 0cm;
+  text-align: justify;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt;
+  font-size: 12.0pt;
+  font-family: "Cambria", serif;
+  mso-fareast-font-family: "Cambria", serif;
+  mso-bidi-font-family: "Cambria", serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: EN-US; }
+
+span.MsoCommentReference {
+  mso-style-noshow: yes;
+  mso-style-priority: 99;
+  mso-style-parent: "";
+  mso-ansi-font-size: 9.0pt;
+  mso-bidi-font-size: 9.0pt; }
+
+p.MsoCommentSubject, li.MsoCommentSubject, div.MsoCommentSubject {
+  mso-style-noshow: yes;
+  mso-style-priority: 99;
+  mso-style-parent: "Comment Text";
+  mso-style-link: "Comment Subject Char";
+  mso-style-next: "Comment Text";
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  margin-left: 0cm;
+  text-align: justify;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt;
+  font-size: 10.0pt;
+  font-family: "Cambria", serif;
+  mso-fareast-font-family: "Cambria", serif;
+  mso-bidi-font-family: "Cambria", serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: EN-US;
+  font-weight: bold; }
+
+p.Tablebody, li.Tablebody, div.Tablebody {
+  mso-style-name: "Table body";
+  mso-style-noshow: yes;
+  mso-style-unhide: no;
+  margin-top: 3.0pt;
+  margin-right: 0cm;
+  margin-bottom: 3.0pt;
+  margin-left: 0cm;
+  line-height: 10.5pt;
+  mso-pagination: widow-orphan;
+  font-size: 10.0pt;
+  mso-bidi-font-size: 11.0pt;
+  font-family: "Cambria", serif;
+  mso-fareast-font-family: "Cambria", serif;
+  mso-bidi-font-family: "Cambria", serif;
+  mso-ansi-language: EN-GB; }
+
+.MsoChpDefault {
+  mso-style-type: export-only;
+  mso-default-props: yes;
+  mso-ascii-font-family: "Cambria", serif;
+  mso-fareast-font-family: "Cambria", serif;
+  mso-hansi-font-family: "Cambria", serif; }
+
+/* Page Definitions */
+@page {
+  mso-mirror-margins: yes;
+  mso-footnote-separator: url("file:///C:/Doc/document_files/header.html") fs;
+  mso-footnote-continuation-separator: url("file:///C:/Doc/document_files/header.html") fcs;
+  mso-endnote-separator: url("file:///C:/Doc/document_files/header.html") es;
+  mso-endnote-continuation-separator: url("file:///C:/Doc/document_files/header.html") ecs;
+  mso-facing-pages: yes;
+  mso-page-orientation: portrait; }
+
+@page WordSection1 {
+  size: 595.0pt 842.0pt;
+  margin: 72.0pt 90.0pt 72.0pt 90.0pt;
+  mso-header-margin: 35.4pt;
+  mso-footer-margin: 35.4pt;
+  mso-even-header: url("file:///C:/Doc/document_files/header.html") eha;
+  mso-header: url("file:///C:/Doc/document_files/header.html") ha;
+  mso-even-footer: url("file:///C:/Doc/document_files/header.html") efa;
+  mso-paper-source: 0; }
+
+div.WordSection1 {
+  page: WordSection1; }
+
+@page WordSection2 {
+  size: 595.3pt 841.9pt;
+  margin: 39.7pt 53.85pt 1.0cm 53.85pt;
+  mso-header-margin: 35.45pt;
+  mso-footer-margin: 14.2pt;
+  mso-page-numbers: roman-lower;
+  mso-even-header: url("file:///C:/Doc/document_files/header.html") eh2;
+  mso-header: url("file:///C:/Doc/document_files/header.html") h2;
+  mso-even-footer: url("file:///C:/Doc/document_files/header.html") ef2;
+  mso-footer: url("file:///C:/Doc/document_files/header.html") f2;
+  mso-paper-source: 0; }
+
+div.WordSection2 {
+  page: WordSection2; }
+
+@page WordSection3 {
+  size: 595.3pt 841.9pt;
+  margin: 39.7pt 53.85pt 1.0cm 53.85pt;
+  mso-header-margin: 35.45pt;
+  mso-footer-margin: 14.2pt;
+  mso-page-numbers: 1;
+  mso-even-header: url("file:///C:/Doc/document_files/header.html") eh2;
+  mso-header: url("file:///C:/Doc/document_files/header.html") h2;
+  mso-even-footer: url("file:///C:/Doc/document_files/header.html") ef3;
+  mso-footer: url("file:///C:/Doc/document_files/header.html") f3;
+  mso-paper-source: 0; }
+
+div.WordSection3 {
+  page: WordSection3; }
+
+@page WordSection4 {
+  size: 595.3pt 841.9pt;
+  margin: 39.7pt 53.85pt 1.0cm 53.85pt;
+  mso-header-margin: 35.45pt;
+  mso-footer-margin: 14.2pt;
+  mso-page-numbers: 1;
+  mso-even-header: url("file:///C:/Doc/document_files/header.html") eh2;
+  mso-header: url("file:///C:/Doc/document_files/header.html") h2;
+  mso-even-footer: url("file:///C:/Doc/document_files/header.html") f4;
+  mso-footer: url("file:///C:/Doc/document_files/header.html") f4;
+  mso-paper-source: 0; }
+
+div.colophon {
+  page: WordSection4; }
+
+/* List Definitions */
+@list l0 {
+  mso-list-id: 145051656;
+  mso-list-template-ids: 2112159680; }
+
+@list l0:level1 {
+  mso-level-number-format: alpha-upper;
+  mso-level-style-link: ANNEX;
+  mso-level-suffix: none;
+  mso-level-text: "Annex\00A0%1";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-ansi-font-size: 14.0pt;
+  mso-bidi-font-size: 14.0pt;
+  font-family: "Cambria", serif;
+  mso-bidi-font-family: "Cambria", serif;
+  mso-ansi-font-weight: bold;
+  mso-ansi-font-style: normal; }
+
+@list l0:level2 {
+  mso-level-style-link: a2;
+  mso-level-text: "%1\.%2";
+  mso-level-tab-stop: 18.0pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "Cambria", serif;
+  mso-ansi-font-weight: bold;
+  mso-ansi-font-style: normal; }
+
+@list l0:level3 {
+  mso-level-style-link: a3;
+  mso-level-text: "%1\.%2\.%3";
+  mso-level-tab-stop: 36.0pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "Cambria", serif;
+  mso-ansi-font-weight: bold;
+  mso-ansi-font-style: normal; }
+
+@list l0:level4 {
+  mso-level-style-link: a4;
+  mso-level-text: "%1\.%2\.%3\.%4";
+  mso-level-tab-stop: 54.0pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "Cambria", serif;
+  mso-ansi-font-weight: bold;
+  mso-ansi-font-style: normal; }
+
+@list l0:level5 {
+  mso-level-style-link: a5;
+  mso-level-text: "%1\.%2\.%3\.%4\.%5";
+  mso-level-tab-stop: 54.0pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "Cambria", serif;
+  mso-ansi-font-weight: bold;
+  mso-ansi-font-style: normal; }
+
+@list l0:level6 {
+  mso-level-style-link: a6;
+  mso-level-text: "%1\.%2\.%3\.%4\.%5\.%6";
+  mso-level-tab-stop: 72.0pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "Cambria", serif;
+  mso-ansi-font-weight: bold;
+  mso-ansi-font-style: normal; }
+
+@list l0:level7 {
+  mso-level-reset-level: level2;
+  mso-level-suffix: space;
+  mso-level-text: "Figure\00A0%1\.%7\00A0—";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "Cambria", serif; }
+
+@list l0:level8 {
+  mso-level-reset-level: level2;
+  mso-level-suffix: space;
+  mso-level-text: "Table\00A0%1\.%8\00A0—";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "Cambria", serif; }
+
+@list l0:level9 {
+  mso-level-number-format: roman-lower;
+  mso-level-text: "\(%9\)";
+  mso-level-tab-stop: 306.0pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "Cambria", serif; }
+
+@list l1 {
+  mso-list-id: 866942648;
+  mso-list-template-ids: -1756330000; }
+
+@list l1:level1 {
+  mso-level-style-link: "Heading 1";
+  mso-level-text: "%1";
+  mso-level-tab-stop: 21.6pt;
+  mso-level-number-position: left;
+  margin-left: 21.6pt;
+  text-indent: -21.6pt;
+  mso-bidi-font-family: "Cambria", serif;
+  mso-ansi-font-weight: bold;
+  mso-ansi-font-style: normal; }
+
+@list l1:level2 {
+  mso-level-style-link: "Heading 2";
+  mso-level-text: "%1\.%2";
+  mso-level-tab-stop: 18.0pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "Cambria", serif;
+  mso-ansi-font-weight: bold;
+  mso-ansi-font-style: normal; }
+
+@list l1:level3 {
+  mso-level-style-link: "Heading 3";
+  mso-level-text: "%1\.%2\.%3";
+  mso-level-tab-stop: 36.0pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "Cambria", serif;
+  mso-ansi-font-weight: bold;
+  mso-ansi-font-style: normal; }
+
+@list l1:level4 {
+  mso-level-style-link: "Heading 4";
+  mso-level-text: "%1\.%2\.%3\.%4";
+  mso-level-tab-stop: 54.0pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "Cambria", serif;
+  mso-ansi-font-weight: bold;
+  mso-ansi-font-style: normal; }
+
+@list l1:level5 {
+  mso-level-style-link: "Heading 5";
+  mso-level-text: "%1\.%2\.%3\.%4\.%5";
+  mso-level-tab-stop: 54.0pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "Cambria", serif;
+  mso-ansi-font-weight: bold;
+  mso-ansi-font-style: normal; }
+
+@list l1:level6 {
+  mso-level-style-link: "Heading 6";
+  mso-level-text: "%1\.%2\.%3\.%4\.%5\.%6";
+  mso-level-tab-stop: 72.0pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "Cambria", serif;
+  mso-ansi-font-weight: bold;
+  mso-ansi-font-style: normal; }
+
+@list l1:level7 {
+  mso-level-text: "%1\.%2\.%3\.%4\.%5\.%6\.%7";
+  mso-level-tab-stop: 72.0pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "Cambria", serif; }
+
+@list l1:level8 {
+  mso-level-text: "%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8";
+  mso-level-tab-stop: 90.0pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "Cambria", serif; }
+
+@list l1:level9 {
+  mso-level-text: "%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8\.%9";
+  mso-level-tab-stop: 90.0pt;
+  mso-level-number-position: left;
+  margin-left: 0cm;
+  text-indent: 0cm;
+  mso-bidi-font-family: "Cambria", serif; }
+
+/* ordered list */
+@list l2 {
+  mso-list-id: 525294607;
+  mso-list-template-ids: 67633181; }
+
+@list l2:level1 {
+  mso-level-number-format: alpha-lower;
+  mso-level-text: "%1\)";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 18.0pt;
+  text-indent: -18.0pt; }
+
+@list l2:level2 {
+  mso-level-text: "%2\)";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 36.0pt;
+  text-indent: -18.0pt; }
+
+@list l2:level3 {
+  mso-level-number-format: roman-lower;
+  mso-level-text: "%3\)";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 54.0pt;
+  text-indent: -18.0pt; }
+
+@list l2:level4 {
+  mso-level-number-format: alpha-upper;
+  mso-level-text: "%4\)";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 72.0pt;
+  text-indent: -18.0pt; }
+
+@list l2:level5 {
+  mso-level-number-format: roman-upper;
+  mso-level-text: "%5\)";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 90.0pt;
+  text-indent: -18.0pt; }
+
+@list l2:level6 {
+  mso-level-number-format: alpha-lower;
+  mso-level-text: "%6\)";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 108.0pt;
+  text-indent: -18.0pt; }
+
+@list l2:level7 {
+  mso-level-tab-stop: none;
+  mso-level-text: "%7\)";
+  mso-level-number-position: left;
+  margin-left: 126.0pt;
+  text-indent: -18.0pt; }
+
+@list l2:level8 {
+  mso-level-number-format: roman-lower;
+  mso-level-text: "%8\)";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 144.0pt;
+  text-indent: -18.0pt; }
+
+@list l2:level9 {
+  mso-level-number-format: alpha-upper;
+  mso-level-text: "%9\)";
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 162.0pt;
+  text-indent: -18.0pt; }
+
+/* Unordered list */
+@list l3 {
+  mso-list-id: 1308196397;
+  mso-list-type: hybrid;
+  mso-list-template-ids: -277327948 -457018030 67633155 67633157 67633153 67633155 67633157 67633153 67633155 67633157; }
+
+@list l3:level1 {
+  mso-level-number-format: bullet;
+  mso-level-text: —;
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 18.0pt;
+  text-indent: -18.0pt; }
+
+@list l3:level2 {
+  mso-level-number-format: bullet;
+  mso-level-text: —;
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 36.0pt;
+  text-indent: -18.0pt; }
+
+@list l3:level3 {
+  mso-level-number-format: bullet;
+  mso-level-text: —;
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 54.0pt;
+  text-indent: -18.0pt; }
+
+@list l3:level4 {
+  mso-level-number-format: bullet;
+  mso-level-text: —;
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 72.0pt;
+  text-indent: -18.0pt; }
+
+@list l3:level5 {
+  mso-level-number-format: bullet;
+  mso-level-text: —;
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 90.0pt;
+  text-indent: -18.0pt; }
+
+@list l3:level6 {
+  mso-level-number-format: bullet;
+  mso-level-text: —;
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 108.0pt;
+  text-indent: -18.0pt; }
+
+@list l3:level7 {
+  mso-level-number-format: bullet;
+  mso-level-text: —;
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 126.0pt;
+  text-indent: -18.0pt; }
+
+@list l3:level8 {
+  mso-level-number-format: bullet;
+  mso-level-text: —;
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 144.0pt;
+  text-indent: -18.0pt; }
+
+@list l3:level9 {
+  mso-level-number-format: bullet;
+  mso-level-text: —;
+  mso-level-tab-stop: none;
+  mso-level-number-position: left;
+  margin-left: 162.0pt;
+  text-indent: -18.0pt; }
+
+p.ListContLevel1, li.ListContLevel1, div.ListContLevel1 {
+  mso-style-priority: 34;
+  margin-top: 0cm;
+  margin-left: 18.0pt;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  mso-pagination: widow-orphan;
+  font-size: 11.0pt;
+  font-family: "Cambria", serif;
+  mso-ansi-language: EN-AU;
+  mso-fareast-language: EN-US; }
+
+p.ListContLevel2, li.ListContLevel2, div.ListContLevel2 {
+  mso-style-priority: 34;
+  margin-top: 0cm;
+  margin-left: 36.0pt;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  mso-pagination: widow-orphan;
+  font-size: 11.0pt;
+  font-family: "Cambria", serif;
+  mso-ansi-language: EN-AU;
+  mso-fareast-language: EN-US; }
+
+p.ListContLevel3, li.ListContLevel3, div.ListContLevel3 {
+  mso-style-priority: 34;
+  margin-top: 0cm;
+  margin-left: 54.0pt;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  mso-pagination: widow-orphan;
+  font-size: 11.0pt;
+  font-family: "Cambria", serif;
+  mso-ansi-language: EN-AU;
+  mso-fareast-language: EN-US; }
+
+p.ListContLevel4, li.ListContLevel4, div.ListContLevel4 {
+  mso-style-priority: 34;
+  margin-top: 0cm;
+  margin-left: 72.0pt;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  mso-pagination: widow-orphan;
+  font-size: 11.0pt;
+  font-family: "Cambria", serif;
+  mso-ansi-language: EN-AU;
+  mso-fareast-language: EN-US; }
+
+p.ListContLevel5, li.ListContLevel5, div.ListContLevel5 {
+  mso-style-priority: 34;
+  margin-top: 0cm;
+  margin-left: 90.0pt;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  mso-pagination: widow-orphan;
+  font-size: 11.0pt;
+  font-family: "Cambria", serif;
+  mso-ansi-language: EN-AU;
+  mso-fareast-language: EN-US; }
+
+p.ListContLevel6, li.ListContLevel6, div.ListContLevel6 {
+  mso-style-priority: 34;
+  margin-top: 0cm;
+  margin-left: 108.0pt;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  mso-pagination: widow-orphan;
+  font-size: 11.0pt;
+  font-family: "Cambria", serif;
+  mso-ansi-language: EN-AU;
+  mso-fareast-language: EN-US; }
+
+p.ListContLevel7, li.ListContLevel7, div.ListContLevel7 {
+  mso-style-priority: 34;
+  margin-top: 0cm;
+  margin-left: 126.0pt;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  mso-pagination: widow-orphan;
+  font-size: 11.0pt;
+  font-family: "Cambria", serif;
+  mso-ansi-language: EN-AU;
+  mso-fareast-language: EN-US; }
+
+p.ListContLevel8, li.ListContLevel8, div.ListContLevel8 {
+  mso-style-priority: 34;
+  margin-top: 0cm;
+  margin-left: 144.0pt;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  mso-pagination: widow-orphan;
+  font-size: 11.0pt;
+  font-family: "Cambria", serif;
+  mso-ansi-language: EN-AU;
+  mso-fareast-language: EN-US; }
+
+p.ListContLevel9, li.ListContLevel9, div.ListContLevel9 {
+  mso-style-priority: 34;
+  margin-top: 0cm;
+  margin-left: 162.0pt;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  mso-pagination: widow-orphan;
+  font-size: 11.0pt;
+  font-family: "Cambria", serif;
+  mso-ansi-language: EN-AU;
+  mso-fareast-language: EN-US; }
+
+table.MsoNormalTable {
+  mso-style-name: "Table Normal";
+  mso-tstyle-rowband-size: 0;
+  mso-tstyle-colband-size: 0;
+  mso-style-noshow: yes;
+  mso-style-priority: 99;
+  mso-style-parent: "";
+  mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;
+  mso-para-margin: 0cm;
+  mso-para-margin-bottom: .0001pt;
+  mso-pagination: widow-orphan;
+  font-size: 10.0pt;
+  font-family: "Cambria", serif; }
+
+br.section {
+  page-break-before: always;
+  mso-break-type: section-break; }
+
+br.pagebreak {
+  page-break-before: always;
+  mso-special-character: line-break; }
+
+ol {
+  margin-bottom: 0cm;
+  margin-left: 18pt; }
+
+ul {
+  margin-bottom: 0cm;
+  margin-left: 18pt; }
+
+-->
+</style><meta http-equiv=Content-Type content="text/html; charset=UTF-8"/>
+    <style>
+      <!--
+p.Sourcecode, li.Sourcecode, div.Sourcecode, pre.Sourcecode {
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "";
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  margin-left: 0cm;
+  text-align: left;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt;
+  font-size: 9.0pt;
+  font-family: "Courier New", monospace;
+  mso-fareast-font-family: Calibri;
+  mso-bidi-font-family: "Courier New";
+  mso-ansi-language: EN-GB; }
+
+p.Biblio, li.Biblio, div.Biblio {
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "";
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  margin-left: 33.15pt;
+  text-indent: -33.15pt;
+  tab-stops: 33.15pt;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  font-size: 11.0pt;
+  font-family: "Cambria", serif;
+  mso-fareast-font-family: "Cambria", serif;
+  mso-bidi-font-family: "Cambria", serif;
+  mso-ansi-language: EN-GB; }
+
+p.NormRef, li.NormRef, div.NormRef {
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "";
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  margin-left: 0pt;
+  text-indent: 0pt;
+  tab-stops: 33.15pt;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  font-size: 11.0pt;
+  font-family: "Cambria", serif;
+  mso-fareast-font-family: "Cambria", serif;
+  mso-bidi-font-family: "Cambria", serif;
+  mso-ansi-language: EN-GB; }
+
+p.FigureTitle {
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "";
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 6.0pt;
+  margin-left: 0cm;
+  text-align: center;
+  line-height: 12.0pt;
+  page-break-before: avoid;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt;
+  font-size: 11.0pt;
+  font-family: "Cambria", serif;
+  font-weight: bold;
+  mso-fareast-font-family: "Cambria", serif;
+  mso-bidi-font-family: "Cambria", serif;
+  mso-ansi-language: EN-GB; }
+
+p.AdmonitionTitle {
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "";
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 6.0pt;
+  margin-left: 0cm;
+  text-align: center;
+  line-height: 12.0pt;
+  page-break-after: avoid;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt;
+  font-size: 11.0pt;
+  font-family: "Cambria", serif;
+  font-weight: bold;
+  mso-fareast-font-family: "Cambria", serif;
+  mso-bidi-font-family: "Cambria", serif;
+  mso-ansi-language: EN-GB; }
+
+p.SourceTitle {
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "";
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 6.0pt;
+  margin-left: 0cm;
+  text-align: center;
+  line-height: 12.0pt;
+  page-break-before: avoid;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt;
+  font-size: 11.0pt;
+  font-family: "Cambria", serif;
+  font-weight: bold;
+  mso-fareast-font-family: "Cambria", serif;
+  mso-bidi-font-family: "Cambria", serif;
+  mso-ansi-language: EN-GB; }
+
+p.TableTitle {
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "";
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 6.0pt;
+  margin-left: 0cm;
+  text-align: center;
+  page-break-after: avoid;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt;
+  font-size: 11.0pt;
+  font-weight: bold;
+  font-family: "Cambria", serif;
+  mso-fareast-font-family: "Cambria", serif;
+  mso-bidi-font-family: "Cambria", serif;
+  mso-ansi-language: EN-GB; }
+
+p.Note, div.Note, li.Note, p.TableFootnote, div.TableFootnote, li.TableFootnote {
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  mso-style-parent: "";
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  margin-left: 0cm;
+  text-align: justify;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt;
+  font-size: 10.0pt;
+  mso-bidi-font-size: 11.0pt;
+  font-family: "Cambria", serif;
+  mso-fareast-font-family: "Cambria", serif;
+  mso-bidi-font-family: "Cambria", serif;
+  mso-ansi-language: EN-GB; }
+
+/* may need to be revised */
+p.ANNEX, li.ANNEX, div.ANNEX {
+  mso-style-name: ANNEX;
+  mso-style-priority: 10;
+  mso-style-unhide: no;
+  mso-style-next: Normal;
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 24.0pt;
+  margin-left: 0cm;
+  text-align: center;
+  text-indent: 0cm;
+  line-height: 15.5pt;
+  mso-line-height-rule: exactly;
+  page-break-before: always;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-outline-level: 1;
+  mso-list: l0 level1 lfo12;
+  tab-stops: 20.15pt;
+  font-size: 14.0pt;
+  mso-bidi-font-size: 11.0pt;
+  font-family: "Cambria", serif;
+  mso-fareast-font-family: "Cambria", serif;
+  mso-bidi-font-family: "Cambria", serif;
+  mso-ansi-language: EN-GB;
+  mso-fareast-language: JA;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+p.BiblioTitle, li.BiblioTitle, div.BiblioTitle {
+  mso-style-name: "Biblio Title";
+  mso-style-noshow: yes;
+  mso-style-unhide: no;
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 15.5pt;
+  margin-left: 0cm;
+  text-align: center;
+  line-height: 15.5pt;
+  mso-pagination: widow-orphan;
+  mso-outline-level: 1;
+  tab-stops: 20.15pt;
+  font-size: 14.0pt;
+  mso-bidi-font-size: 11.0pt;
+  font-family: "Cambria", serif;
+  mso-fareast-font-family: "Cambria", serif;
+  mso-bidi-font-family: "Cambria", serif;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+p.Definition, li.Definition, div.Definition {
+  mso-style-name: Definition;
+  mso-style-priority: 9;
+  mso-style-unhide: no;
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 12.0pt;
+  margin-left: 0cm;
+  text-align: justify;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt;
+  font-size: 11.0pt;
+  font-family: "Cambria", serif;
+  mso-fareast-font-family: "Cambria", serif;
+  mso-bidi-font-family: "Cambria", serif;
+  mso-ansi-language: EN-GB; }
+
+p.ForewordTitle, li.ForewordTitle, div.ForewordTitle {
+  mso-style-name: "Foreword Title";
+  mso-style-noshow: yes;
+  mso-style-unhide: no;
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 15.5pt;
+  margin-left: 0cm;
+  text-align: justify;
+  line-height: 15.5pt;
+  page-break-before: always;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-outline-level: 1;
+  mso-hyphenate: none;
+  tab-stops: 20.15pt;
+  font-size: 14.0pt;
+  mso-bidi-font-size: 11.0pt;
+  font-family: "Cambria", serif;
+  mso-fareast-font-family: "Cambria", serif;
+  mso-bidi-font-family: "Cambria", serif;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+p.IntroTitle, li.IntroTitle, div.IntroTitle {
+  mso-style-name: "Intro Title";
+  mso-style-noshow: yes;
+  mso-style-unhide: no;
+  mso-style-parent: "Foreword Title";
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 15.5pt;
+  margin-left: 0cm;
+  text-align: justify;
+  line-height: 15.5pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-outline-level: 1;
+  mso-hyphenate: none;
+  tab-stops: 20.15pt;
+  font-size: 14.0pt;
+  mso-bidi-font-size: 11.0pt;
+  page-break-before: always;
+  font-family: "Cambria", serif;
+  mso-fareast-font-family: "Cambria", serif;
+  mso-bidi-font-family: "Cambria", serif;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+p.Terms, li.Terms, div.Terms {
+  mso-style-name: "Term\(s\)";
+  mso-style-priority: 8;
+  mso-style-unhide: no;
+  mso-style-next: Definition;
+  margin: 0cm;
+  margin-bottom: .0001pt;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-hyphenate: none;
+  tab-stops: 20.15pt;
+  font-size: 11.0pt;
+  font-family: "Cambria", serif;
+  mso-fareast-font-family: "Cambria", serif;
+  mso-bidi-font-family: "Cambria", serif;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+p.AltTerms, li.AltTerms, div.AltTerms {
+  mso-style-name: "AltTerm\(s\)";
+  mso-style-priority: 8;
+  mso-style-unhide: no;
+  mso-style-next: Definition;
+  margin: 0cm;
+  margin-bottom: .0001pt;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-hyphenate: none;
+  tab-stops: 20.15pt;
+  font-size: 11.0pt;
+  font-family: "Cambria", serif;
+  mso-fareast-font-family: "Cambria", serif;
+  mso-bidi-font-family: "Cambria", serif;
+  mso-ansi-language: EN-GB;
+  mso-bidi-font-weight: normal; }
+
+p.DeprecatedTerms, li.DeprecatedTerms, div.DeprecatedTerms {
+  mso-style-name: "DeprecatedTerm\(s\)";
+  mso-style-priority: 8;
+  mso-style-unhide: no;
+  mso-style-next: Definition;
+  margin: 0cm;
+  margin-bottom: .0001pt;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-hyphenate: none;
+  tab-stops: 20.15pt;
+  font-size: 11.0pt;
+  font-family: "Cambria", serif;
+  mso-fareast-font-family: "Cambria", serif;
+  mso-bidi-font-family: "Cambria", serif;
+  mso-ansi-language: EN-GB;
+  mso-bidi-font-weight: normal; }
+
+p.TermNum, li.TermNum, div.TermNum {
+  mso-style-name: TermNum;
+  mso-style-priority: 7;
+  mso-style-unhide: no;
+  mso-style-next: "Term\(s\)";
+  margin: 0cm;
+  margin-bottom: .0001pt;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  tab-stops: 20.15pt;
+  font-size: 11.0pt;
+  font-family: "Cambria", serif;
+  mso-fareast-font-family: "Cambria", serif;
+  mso-bidi-font-family: "Cambria", serif;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+p.zzContents, li.zzContents, div.zzContents {
+  mso-style-name: zzContents;
+  mso-style-noshow: yes;
+  mso-style-unhide: no;
+  mso-style-next: "TOC 1";
+  margin-top: 48.0pt;
+  margin-right: 0cm;
+  margin-bottom: 15.5pt;
+  margin-left: 0cm;
+  line-height: 15.5pt;
+  mso-line-height-rule: exactly;
+  page-break-before: always;
+  mso-pagination: widow-orphan;
+  page-break-after: avoid;
+  mso-hyphenate: none;
+  tab-stops: 20.15pt;
+  font-size: 14.0pt;
+  mso-bidi-font-size: 11.0pt;
+  font-family: "Cambria", serif;
+  mso-fareast-font-family: "Cambria", serif;
+  mso-bidi-font-family: "Cambria", serif;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+p.zzCopyright, li.zzCopyright, div.zzCopyright {
+  mso-style-name: zzCopyright;
+  mso-style-noshow: yes;
+  mso-style-unhide: no;
+  mso-style-next: Normal;
+  margin-top: 0cm;
+  margin-right: 14.2pt;
+  margin-bottom: 12.0pt;
+  margin-left: 14.2pt;
+  text-align: justify;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt 25.7pt 481.15pt;
+  border: none;
+  mso-border-alt: solid blue .5pt;
+  padding: 0cm;
+  mso-padding-alt: 1.0pt 4.0pt 1.0pt 4.0pt;
+  font-size: 11.0pt;
+  font-family: "Cambria", serif;
+  mso-fareast-font-family: "Cambria", serif;
+  mso-bidi-font-family: "Cambria", serif;
+  mso-ansi-language: EN-GB; }
+
+p.zzSTDTitle, li.zzSTDTitle, div.zzSTDTitle {
+  mso-style-name: zzSTDTitle;
+  mso-style-noshow: yes;
+  mso-style-unhide: no;
+  mso-style-next: Normal;
+  margin-top: 20.0pt;
+  margin-right: 0cm;
+  margin-bottom: 38.0pt;
+  margin-left: 0cm;
+  line-height: 17.5pt;
+  mso-line-height-rule: exactly;
+  mso-pagination: widow-orphan;
+  mso-hyphenate: none;
+  tab-stops: 20.15pt;
+  font-size: 16.0pt;
+  mso-bidi-font-size: 11.0pt;
+  font-family: "Cambria", serif;
+  mso-fareast-font-family: "Cambria", serif;
+  mso-bidi-font-family: "Cambria", serif;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+p.zzSTDTitle1, li.zzSTDTitle1, div.zzSTDTitle1 {
+  mso-style-name: zzSTDTitle;
+  mso-style-noshow: yes;
+  mso-style-unhide: no;
+  mso-style-next: Normal;
+  margin-top: 0pt;
+  margin-right: 0cm;
+  margin-bottom: 18.0pt;
+  margin-left: 0cm;
+  line-height: 17.5pt;
+  mso-line-height-rule: exactly;
+  mso-pagination: widow-orphan;
+  mso-hyphenate: none;
+  tab-stops: 20.15pt;
+  font-size: 16.0pt;
+  mso-bidi-font-size: 11.0pt;
+  font-family: "Cambria", serif;
+  mso-fareast-font-family: "Cambria", serif;
+  mso-bidi-font-family: "Cambria", serif;
+  mso-ansi-language: EN-GB;
+  font-weight: bold;
+  mso-bidi-font-weight: normal; }
+
+p.Quote, li.Quote, div.Quote {
+  mso-style-priority: 99;
+  margin-top: 0cm;
+  margin-right: 36.0pt;
+  margin-bottom: 0cm;
+  margin-left: 36.0pt;
+  text-align: justify;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt;
+  font-size: 11.0pt;
+  font-family: "Cambria", serif;
+  mso-fareast-font-family: "Cambria", serif;
+  mso-bidi-font-family: "Cambria", serif;
+  mso-ansi-language: EN-GB; }
+
+p.QuoteAttribution {
+  text-align: right; }
+
+p.Admonition, li.Admonition, div.Admonition {
+  mso-style-priority: 99;
+  mso-pagination: widow-orphan;
+  border: none;
+  padding: 0cm;
+  font-size: 12.0pt;
+  font-family: "Cambria", serif;
+  mso-ascii-font-family: "Cambria", serif;
+  mso-ascii-theme-font: minor-latin;
+  mso-fareast-font-family: "Cambria", serif;
+  mso-fareast-theme-font: minor-fareast;
+  mso-hansi-font-family: "Cambria", serif;
+  mso-hansi-theme-font: minor-latin;
+  mso-bidi-font-family: "Cambria", serif;
+  mso-bidi-theme-font: minor-bidi;
+  font-weight: bold;
+  mso-ansi-language: EN-AU; }
+
+p.Code, li.Code, div.Code {
+  mso-style-name: Code;
+  mso-style-priority: 16;
+  mso-style-unhide: no;
+  mso-style-qformat: yes;
+  margin: 0cm;
+  margin-bottom: .0001pt;
+  line-height: 10.0pt;
+  mso-pagination: widow-orphan;
+  tab-stops: 20.15pt;
+  font-size: 9.0pt;
+  mso-bidi-font-size: 11.0pt;
+  font-family: "Courier New", monospace;
+  mso-fareast-font-family: Calibri;
+  mso-bidi-font-family: "Cambria";
+  mso-ansi-language: EN-GB; }
+
+p.Formula, li.Formula, div.Formula {
+  mso-style-name: Formula;
+  mso-style-noshow: yes;
+  mso-style-unhide: no;
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 11.0pt;
+  margin-left: 20.15pt;
+  line-height: 12.0pt;
+  mso-pagination: widow-orphan;
+  tab-stops: right 487.45pt;
+  font-size: 11.0pt;
+  font-family: "Cambria", serif;
+  mso-fareast-font-family: "Cambria", serif;
+  mso-bidi-font-family: "Cambria", serif;
+  mso-ansi-language: EN-GB; }
+
+table.dl {
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-bottom: 11.0pt;
+  margin-left: 0cm; }
+
+div.figdl {
+  text-align: left; }
+
+table.figdl {
+  mso-para-margin: 0cm;
+  mso-para-margin-bottom: .0001pt;
+  mso-pagination: widow-orphan;
+  align: left;
+  text-align: left;
+  margin-top: 0cm;
+  margin-right: 0cm;
+  margin-left: 0cm;
+  margin-right: 0cm; }
+
+ol {
+  margin-bottom: 0cm; }
+
+ul {
+  margin-bottom: 0cm; }
+
+table.MsoISOTable {
+  mso-style-name: "Table ISO";
+  mso-tstyle-rowband-size: 0;
+  mso-tstyle-colband-size: 0;
+  mso-style-noshow: yes;
+  mso-style-priority: 99;
+  mso-style-parent: "";
+  mso-padding-alt: 0cm 2.85pt 0cm 2.85pt;
+  mso-para-margin: 0cm;
+  mso-para-margin-bottom: .0001pt;
+  mso-pagination: widow-orphan;
+  border-collapse: collapse;
+  /*mso-table-layout-alt:fixed;*/
+  border: solid windowtext 2pt;
+  mso-border-alt: solid windowtext 2pt;
+  mso-yfti-tbllook: 480;
+  mso-border-insideh: .75pt solid windowtext;
+  mso-border-insidev: .75pt solid windowtext;
+  font-size: 10.0pt;
+  font-family: "Cambria", serif; }
+
+table.MsoISOTable tr {
+  page-break-inside: avoid; }
+
+table.MsoISOTable th {
+  border: solid windowtext 1pt;
+  mso-border-alt: solid windowtext 1pt;
+  padding: 0cm 2.85pt 0cm 2.85pt; }
+
+table.MsoISOTable td {
+  border: solid windowtext 1pt;
+  mso-border-alt: solid windowtext 1pt;
+  padding: 0cm 2.85pt 0cm 2.85pt; }
+
+table.MsoTableGrid {
+  mso-style-name: "Table Grid";
+  mso-tstyle-rowband-size: 0;
+  mso-tstyle-colband-size: 0;
+  mso-style-priority: 39;
+  mso-style-unhide: no;
+  border: solid windowtext 1.0pt;
+  mso-border-alt: solid windowtext .5pt;
+  mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;
+  mso-border-insideh: .5pt solid windowtext;
+  mso-border-insidev: .5pt solid windowtext;
+  mso-para-margin: 0cm;
+  mso-para-margin-bottom: .0001pt;
+  mso-pagination: widow-orphan;
+  font-size: 10.0pt;
+  font-family: "Cambria", serif; }
+
+td {
+  page-break-inside: avoid; }
+
+tr {
+  page-break-after: avoid; }
+
+span.stem {
+  font-family: "Cambria Math",serif;
+  mso-ascii-font-family: "Cambria Math";
+  font-style: italic; }
+
+div.formula {
+  tab-stops: right 487.45pt; }
+
+body {
+  tab-interval: 36.0pt; }
+
+dt {
+  page-break-inside: avoid;
+  page-break-after: avoid; }
+
+.coverpage_docnumber {
+  text-align: right;
+  font-size: 14.0pt;
+  font-weight: bold; }
+
+.coverpage_techcommittee {
+  text-align: right; }
+
+.coverpage_docstage {
+  text-align: center;
+  font-size: 30.0pt;
+  color: #485094; }
+
+div.doctitle {
+  margin-top: 100.0pt;
+  text-align: left;
+  font-size: 16.0pt; }
+
+div.coverpage_warning {
+  mso-element: para-border-div;
+  border: solid windowtext 1.0pt #485094;
+  mso-border-alt: solid windowtext .5pt;
+  padding: 1.0pt 4.0pt 1.0pt 4.0pt #485094;
+  margin-left: 4.25pt;
+  margin-right: 4.25pt; }
+
+.coverpage_warning {
+  color: #485094;
+  font-size: 10.0pt; }
+
+.coverpage {
+  text-align: center;
+  margin: 2em 0; }
+
+.coverpage-logo {
+  color: #485094; }
+
+.coverpage-tc-name {
+  color: #485094;
+  font-size: 1.2em;
+  line-height: 1.2em;
+  margin: 0.25em 0; }
+
+.coverpage-doc-identity {
+  background-color: #485094;
+  color: white;
+  font-size: 2em;
+  line-height: 2em;
+  margin: 0.5em 0; }
+
+.coverpage-title {
+  font-weight: 400; }
+
+.coverpage-title .title-second {
+  display: none; }
+
+.coverpage-stage-block {
+  font-style: italic;
+  font-size: 1.25em;
+  font-weight: 600; }
+
+.coverpage-warning {
+  border-top: solid 1px #f36f36;
+  border-bottom: solid 1px #f36f36;
+  margin: 1em 2em;
+  color: #485094;
+  padding: 1em; }
+
+.coverpage-warning .title {
+  color: #f36f36;
+  font-weight: 500; }
+
+.coverpage-warning .content {
+  font-style: italic; }
+
+.copyright {
+  padding: 1em; }
+
+.copyright .name {
+  color: #485094;
+  font-weight: 600; }
+
+.copyright .address {
+  color: #485094; }
+
+div.rule {
+  width: 100%;
+  height: 1px;
+  background-color: #485094;
+  margin: 2em 0; }
+
+#toc-list ul {
+  margin-bottom: 0.25em; }
+
+#toc-list li {
+  list-style-type: none; }
+
+.MsoTocTextSpan {
+  color: windowtext;
+  display: none;
+  mso-hide: screen;
+  mso-ansi-language: EN-GB;
+  text-decoration: none;
+  text-underline: none; }
+
+a.TableFootnoteRef {
+  mso-style-priority: 99;
+  vertical-align: super; }
+
+aside {
+  font-size: 10.0pt; }
+
+/*
+div.example {
+	border:solid black .25pt;
+	mso-border-alt:solid black .25pt;
+	padding:10pt;
+	mso-padding-alt:10.0pt 10.0pt 10.0pt 10.0pt;
+	margin:10pt;
+	mso-margin-alt:10.0pt 10.0pt 10.0pt 10.0pt;
+}
+*/
+/*
+div.example {
+  margin-left:70.9pt;
+  text-indent:-70.9pt;
+}
+*/
+p.example, li.example, div.example, td.example {
+  margin: 0in;
+  margin-bottom: 12.0pt;
+  mso-pagination: none;
+  tab-stops: 70.9pt;
+  font-size: 10.0pt;
+  font-family: "Cambria", serif; }
+
+td.example p.MsoListParagraph {
+  font-size: 10.0pt; }
+
+span.note_label, span.example_label, td.example_label, td.note_label {
+  font-size: 10.0pt;
+  font-family: "Cambria", serif; }
+
+-->
+    </style>
+  </head>
+  <body lang="EN-US" link="blue" vlink="#954F72" xml:lang="EN-US">
+    <div class="WordSection1">
+<p class="MsoNormal" align="right" style="text-align:right">
+  <b style="mso-bidi-font-weight:&#10;normal">
+    <span lang="EN-GB" style="font-size:14.0pt;mso-no-proof:yes" xml:lang="EN-GB">ISO 21198:2019(E) </span>
+  </b>
+  <b style="mso-bidi-font-weight:normal">
+    <span lang="EN-GB" style="font-size:14.0pt" xml:lang="EN-GB">
+      <p class="MsoNormal"></p>
+    </span>
+  </b>
+</p>
+
+
+
+
+
+
+<p class="MsoNormal" align="right" style="text-align:right">
+  <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">ISO/TC 211/WG 9</span>
+</p>
+
+<p class="MsoNormal" align="right" style="margin-bottom:100.0pt;text-align:right">
+  <span lang="EN-GB" xml:lang="EN-GB">Secretariat: <span style="mso-no-proof:yes">SIS</span></span>
+</p>
+
+<p class="MsoNormal" align="left" style="text-align:left;line-height:18.0pt;margin-bottom:0.0pt;font-size:16.0pt">
+<span class="title"><b>Geographic information &#x2014; </b></span><b><span class="subtitle">Geodetic register installation guide</span></b>
+  
+</p>
+
+<br/>
+<p class="MsoNormal" align="left" style="text-align:left;line-height:18.0pt;margin-bottom:0.0pt;font-size:16.0pt">
+<span class="title">Information g&#xE9;ographique &#x2014; </span><span class="subtitle">Guide d&#x2019;installation du registre g&#xE9;od&#xE9;sique</span>
+  
+</p>
+
+
+
+
+<p class="MsoNormal" style="margin-top:100.0pt">
+  <span lang="EN-GB" xml:lang="EN-GB">
+    <p class="MsoNormal">&#xA0;</p>
+  </span>
+</p>
+
+<div style="mso-element:para-border-div;border:solid windowtext 1.0pt;&#10;mso-border-alt:solid windowtext .5pt;padding:1.0pt 4.0pt 1.0pt 4.0pt;&#10;margin-left:4.25pt;margin-right:4.25pt">
+
+<p class="MsoNormal" align="center" style="text-align:center;border:none;&#10;mso-border-alt:solid windowtext .5pt;padding:0cm;mso-padding-alt:1.0pt 4.0pt 1.0pt 4.0pt"><span lang="EN-GB" style="font-size:40.0pt" xml:lang="EN-GB"><p class="MsoNormal"></p></span></p>
+
+</div>
+
+<p class="MsoNormal" style="margin-bottom:6.0pt">
+  <span lang="EN-GB" xml:lang="EN-GB">
+    <p class="MsoNormal">&#xA0;</p>
+  </span>
+</p>
+
+
+
+
+
+
+
+      <p class="MsoNormal">&#xA0;</p>
+    </div>
+    <p class="MsoNormal">
+      <br clear="all" class="section"/>
+    </p>
+    <div class="WordSection2"><div style="mso-element:para-border-div;border:solid windowtext 1.0pt;&#10;border-bottom:none;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:&#10;solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:1.0pt 4.0pt 0cm 4.0pt;&#10;margin-left:5.1pt;margin-right:5.1pt">
+
+<p class="zzCopyright" align="left" style="margin-top:2.0pt;margin-right:0cm;&#10;margin-bottom:12.0pt;margin-left:0cm;text-align:left;page-break-before:always;&#10;mso-layout-grid-align:none;text-autospace:none;border:none;mso-border-top-alt:&#10;solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-right-alt:&#10;solid windowtext .5pt;padding:0cm;mso-padding-alt:1.0pt 4.0pt 0cm 4.0pt"><span lang="EN-GB" style="color:windowtext" xml:lang="EN-GB">&#xA9; ISO 2019, Published in Switzerland.<p class="MsoNormal"></p></span></p>
+
+<p class="zzCopyright" style="margin-top:0cm;margin-right:0cm;margin-bottom:12.0pt;&#10;margin-left:0cm;mso-layout-grid-align:none;text-autospace:none;border:none;&#10;mso-border-left-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;&#10;padding:0cm;mso-padding-alt:0cm 4.0pt 0cm 4.0pt"><span lang="EN-GB" style="font-size:10.0pt;mso-bidi-font-size:11.0pt;color:windowtext" xml:lang="EN-GB">All rights
+reserved. Unless otherwise specified, no part of this publication may be
+reproduced or utilized otherwise in any form or by any means, electronic or
+mechanical, including photocopying, or posting on the internet or an intranet,
+without prior written permission. Permission can be requested from either ISO
+at the address below or ISO&#x2019;s member body in the country of the requester.<p class="MsoNormal"></p></span></p>
+
+<p class="zzCopyright" style="margin:0cm;margin-bottom:.0001pt;text-indent:20.15pt;&#10;mso-layout-grid-align:none;text-autospace:none;border:none;mso-border-left-alt:&#10;solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:0cm;&#10;mso-padding-alt:0cm 4.0pt 0cm 4.0pt"><span lang="EN-GB" style="font-size:10.0pt;&#10;mso-bidi-font-size:11.0pt;color:windowtext" xml:lang="EN-GB">ISO copyright office<p class="MsoNormal"></p></span></p>
+
+<p class="zzCopyright" style="margin:0cm;margin-bottom:.0001pt;text-indent:20.15pt;&#10;mso-layout-grid-align:none;text-autospace:none;border:none;mso-border-left-alt:&#10;solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:0cm;&#10;mso-padding-alt:0cm 4.0pt 0cm 4.0pt"><span lang="EN-GB" style="font-size:10.0pt;&#10;mso-bidi-font-size:11.0pt;color:windowtext" xml:lang="EN-GB">Ch. de Blandonnet 8 &#x2022; CP 401<p class="MsoNormal"></p></span></p>
+
+<p class="zzCopyright" style="margin:0cm;margin-bottom:.0001pt;text-indent:20.15pt;&#10;mso-layout-grid-align:none;text-autospace:none;border:none;mso-border-left-alt:&#10;solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:0cm;&#10;mso-padding-alt:0cm 4.0pt 0cm 4.0pt"><span lang="EN-GB" style="font-size:10.0pt;&#10;mso-bidi-font-size:11.0pt;color:windowtext" xml:lang="EN-GB">CH-1214 Vernier, Geneva,
+Switzerland<p class="MsoNormal"></p></span></p>
+
+<p class="zzCopyright" style="margin:0cm;margin-bottom:.0001pt;text-indent:20.15pt;&#10;mso-layout-grid-align:none;text-autospace:none;border:none;mso-border-left-alt:&#10;solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:0cm;&#10;mso-padding-alt:0cm 4.0pt 0cm 4.0pt"><span lang="EN-GB" style="font-size:10.0pt;&#10;mso-bidi-font-size:11.0pt;color:windowtext" xml:lang="EN-GB">Tel.&#xA0;&#xA0;+ 41 22 749 01 11<p class="MsoNormal"></p></span></p>
+
+<p class="zzCopyright" style="margin:0cm;margin-bottom:.0001pt;text-indent:20.15pt;&#10;mso-layout-grid-align:none;text-autospace:none;border:none;mso-border-left-alt:&#10;solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:0cm;&#10;mso-padding-alt:0cm 4.0pt 0cm 4.0pt"><span lang="EN-GB" style="font-size:10.0pt;&#10;mso-bidi-font-size:11.0pt;color:windowtext" xml:lang="EN-GB">Fax&#xA0;&#xA0;+ 41 22 749 09 47<p class="MsoNormal"></p></span></p>
+
+<p class="zzCopyright" style="margin:0cm;margin-bottom:.0001pt;text-indent:20.15pt;&#10;mso-layout-grid-align:none;text-autospace:none;border:none;mso-border-left-alt:&#10;solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:0cm;&#10;mso-padding-alt:0cm 4.0pt 0cm 4.0pt"><span lang="EN-GB" style="font-size:10.0pt;&#10;mso-bidi-font-size:11.0pt;color:windowtext" xml:lang="EN-GB">copyright@iso.org<p class="MsoNormal"></p></span></p>
+
+<p class="zzCopyright" style="margin-top:0cm;margin-right:0cm;margin-bottom:12.0pt;&#10;margin-left:0cm;text-indent:20.15pt;mso-layout-grid-align:none;text-autospace:&#10;none;border:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:&#10;solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:0cm;&#10;mso-padding-alt:0cm 4.0pt 1.0pt 4.0pt"><span lang="EN-GB" style="font-size:10.0pt;&#10;mso-bidi-font-size:11.0pt;color:windowtext" xml:lang="EN-GB">www.iso.org<p class="MsoNormal"></p></span></p>
+
+</div>
+
+<p class="zzContents" style="margin-top:0cm">
+  <span lang="EN-GB" xml:lang="EN-GB">Contents</span>
+</p>
+
+<p class="MsoToc1"><span lang="EN-GB" xml:lang="EN-GB"><span style="mso-element:field-begin"></span><span style="mso-spacerun:yes">&#xA0;</span>TOC
+  \o "1-2" \h \z \u <span style="mso-element:field-separator"></span></span>
+<span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc361770011">Foreword<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc361770011 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
+
+<p class="MsoToc1">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc839182303">0 Introduction<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc839182303 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc1">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc310538539">1 Scope<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc310538539 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc1">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc254197095">2 Normative references<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc254197095 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc1">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc907507850">3 Terms, definitions, symbols and abbreviated terms<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc907507850 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc2">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc170262704">3.1 Symbols<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc170262704 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc1">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc725361694">4 Prerequisites<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc725361694 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc2">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc618444858">4.1 Hardware requirements<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc618444858 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc2">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc1760627">4.2 System requirements<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc1760627 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc2">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc66552994">4.3 Skill requirements<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc66552994 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc1">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc713430964">5 Installation<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc713430964 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc2">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc590912528">5.1 Prerequisites<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc590912528 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc2">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc3933674">5.2 Steps<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc3933674 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc2">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc676578784">5.3 Database connection (<tt>hibernate.connection.xml</tt>)<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc676578784 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc2">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc818134881">5.4 Database parameters (<tt>hibernate.properties.xml</tt>)<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc818134881 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc2">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc467002063">5.5 Registry configuration (<tt>registry.configuration.xml</tt>)<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc467002063 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc2">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc502242335">5.6 Registry client configuration (<tt>client.configuration.xml</tt>)<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc502242335 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc1">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc816908729"><b>Annex A</b> (informative)  <b>Default users</b><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc816908729 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc1">
+  <span class="MsoHyperlink">
+    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc494875444">Bibliography<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span>
+</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-element:field-begin"></span></span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc494875444 \h </span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
+  </span>
+</p>
+
+<p class="MsoToc1">
+  <span lang="EN-GB" xml:lang="EN-GB">
+    <span style="mso-element:field-end"></span>
+  </span>
+  <span lang="EN-GB" xml:lang="EN-GB">
+    <p class="MsoNormal">&#xA0;</p>
+  </span>
+</p>
+
+
+      <p class="MsoNormal">
+        <br clear="all" style="mso-special-character:line-break;page-break-before:always"/>
+      </p>
+      <div>
+        <h1 class="ForewordTitle">Foreword</h1>
+        <p class="MsoNormal"><a name="_f7c2b485-8ee7-4711-a12d-831e24caf0eb" id="_f7c2b485-8ee7-4711-a12d-831e24caf0eb"></a>ISO (the International Organization for Standardization)
+is a worldwide federation of national standards bodies (ISO member bodies). The work of preparing International Standards is normally carried out through ISO technical committees. Each member body interested in a subject for which a technical committee has been established has the right to be represented on that committee. International organizations, governmental and non-governmental, in liaison with ISO, also take part in the work. ISO collaborates closely with the International Electrotechnical Commission (IEC) on all matters of electrotechnical standardization.</p>
+        <p class="MsoNormal"><a name="_383d9ecd-6f5d-4ec3-9fb8-352d2fcc9efe" id="_383d9ecd-6f5d-4ec3-9fb8-352d2fcc9efe"></a>Attention is drawn to the possibility that some of the elements of this document may be the subject of patent rights. ISO shall not be held responsible for identifying any or all such patent rights. Details of any patent rights identified during the development of the document will be in the Introduction and/or on the ISO list of patent declarations received (see www.iso.org/patents).</p>
+        <p class="MsoNormal"><a name="_641bf233-74de-43ed-9400-5cf0ecb09e95" id="_641bf233-74de-43ed-9400-5cf0ecb09e95"></a>Any trade name used in this document is information given for the convenience of users and does not constitute an endorsement.</p>
+        <p class="MsoNormal"><a name="_c6175477-1022-45eb-ae43-ec5e6c021b30" id="_c6175477-1022-45eb-ae43-ec5e6c021b30"></a>This document was prepared by Technical Committee ISO/TC 211, <i>Geographic information</i>.</p>
+        <p class="MsoNormal"><a name="_833fd736-dc14-4696-a589-4c19f2db0223" id="_833fd736-dc14-4696-a589-4c19f2db0223"></a>This document is amongst a series of International Standards dealing with the conversion of systems of writing produced by Technical Committee ISO/TC 211, <i>Geographic information</i>, WG 9 <i>Information management</i>.</p>
+        <p class="MsoNormal"><a name="_01f79b3f-4576-4257-87c4-47905191c12d" id="_01f79b3f-4576-4257-87c4-47905191c12d"></a>This is the second edition of this document.</p>
+        <p class="MsoNormal"><a name="_870aad1b-bdf6-47c7-a3ab-906e53f1c48e" id="_870aad1b-bdf6-47c7-a3ab-906e53f1c48e"></a>Copyright &#xA9; 2014-2018 Statens kartverk. 2019 ISO/TC 211.</p>
+      </div>
+      <p class="MsoNormal">
+        <br clear="all" style="mso-special-character:line-break;page-break-before:always"/>
+      </p>
+      <div class="Section3"><a name="introduction" id="introduction"></a>
+        <h1 class="IntroTitle">0<span style="mso-tab-count:1">&#xA0; </span>Introduction</h1>
+        <div><a name="_general" id="_general"></a><p class="h2Annex">0.1 General</p><p class="MsoNormal"><a name="_f34d2dde-d7e6-4ef5-b97a-86e8a5120e59" id="_f34d2dde-d7e6-4ef5-b97a-86e8a5120e59"></a>This document describes installation requirements and
+procedures for the ISO Geodetic Registry.</p>
+<p class="MsoNormal"><a name="_3a3c99ef-2df2-4dee-b402-77e546f9c891" id="_3a3c99ef-2df2-4dee-b402-77e546f9c891"></a>The intended audiences are operators and developers
+of the ISO Geodetic Registry system.</p></div>
+        <div><a name="_the_iso_geodetic_registry" id="_the_iso_geodetic_registry"></a><p class="h2Annex">0.2 The ISO Geodetic Registry</p><p class="MsoNormal"><a name="_8fe6f836-067e-4d61-a8b0-cc6231c234bb" id="_8fe6f836-067e-4d61-a8b0-cc6231c234bb"></a>The ISO Geodetic Registry is a structured database of coordinate
+reference systems and transformations that is accessible through an
+on-line registry system.</p>
+<p class="MsoNormal"><a name="_dac982de-f1a5-4ff6-a87d-80ccc3ef75da" id="_dac982de-f1a5-4ff6-a87d-80ccc3ef75da"></a>This Registry is provided under the auspices of ISO Technical
+Committee 211 on geographic information/geomatics and conforms to
+ISO standards:</p>
+
+  <p style="mso-list:l3 level1 lfo1;" class="MsoListParagraphCxSpFirst">
+    <a href="#ISO19111">ISO 19111:2007</a>;
+  </p>
+  <p style="mso-list:l3 level1 lfo1;" class="MsoListParagraphCxSpMiddle">
+    <a href="#ISO19127">ISO 19127</a>;
+  </p>
+  <p style="mso-list:l3 level1 lfo1;" class="MsoListParagraphCxSpLast">
+    <a href="#ISO19135">ISO 19135:2005</a>, <a href="#ISO19135-1">ISO 19135-1</a> and <a href="#ISO19135-2">ISO 19135-2:2012</a>.
+  </p>
+</div>
+      </div>
+      <p class="MsoNormal">&#xA0;</p>
+    </div>
+    <p class="MsoNormal">
+      <br clear="all" class="section"/>
+    </p>
+    <div class="WordSection3">
+      <p class="zzSTDTitle1">Geographic information&#xA0;&#x2014; Geodetic register installation guide</p>
+      <div><a name="_scope" id="_scope"></a>
+        <h1>1<span style="mso-tab-count:1">&#xA0; </span>Scope</h1>
+        <p class="MsoNormal"><a name="_2d518668-fbea-4d17-a1d9-e3b4e950bed2" id="_2d518668-fbea-4d17-a1d9-e3b4e950bed2"></a>This document describes installation requirements and
+procedures for the ISO Geodetic Registry.</p>
+      </div>
+      <div>
+        <h1>2<span style="mso-tab-count:1">&#xA0; </span>Normative references</h1>
+        <p class="MsoNormal">The following documents are referred to in the text in such a way that some or all of their content constitutes requirements of this document. For dated references, only the edition cited applies. For undated references, the latest edition of the referenced document (including any amendments) applies.</p>
+        <p class="NormRef"><a name="ISO19127" id="ISO19127"></a>ISO 19127, <i> Geographic information&#x2009;&#x2014;&#x2009;Geodetic register</i></p>
+      </div>
+      <div><a name="terms" id="terms"></a><h1>3<span style="mso-tab-count:1">&#xA0; </span>Terms, definitions, symbols and abbreviated terms</h1><p class="MsoNormal">For the purposes of this document,
+  the terms and definitions given in <a href="#ISO19127">ISO 19127</a> apply.</p>
+<p class="MsoNormal">ISO and IEC maintain terminological databases for use in
+standardization at the following addresses:</p>
+
+
+<p style="mso-list:l3 level1 lfo2;" class="MsoListParagraphCxSpFirst"> ISO Online browsing platform: available at
+  <a href="http://www.iso.org/obp">http://www.iso.org/obp</a> </p>
+<p style="mso-list:l3 level1 lfo2;" class="MsoListParagraphCxSpLast"> IEC Electropedia: available at
+  <a href="http://www.electropedia.org">http://www.electropedia.org</a>
+ </p> 
+<div><a name="_symbols" id="_symbols"></a><h2>3.1 Symbols</h2><div><a name="_tomcat7" id="_tomcat7"></a><h3>3.1.1 <tt>&lt;Tomcat7&gt;</tt></h3><p class="MsoNormal"><a name="_d020ea19-4dc0-4e89-a485-fd48831dcfaa" id="_d020ea19-4dc0-4e89-a485-fd48831dcfaa"></a>path to Apache Tomcat 7</p>
+<div class="example"><a name="_b45e9612-4c88-41d8-a422-b9f0230bf844" id="_b45e9612-4c88-41d8-a422-b9f0230bf844"></a><p class="MsoNormal"><span class="example_label">EXAMPLE</span><span style="mso-tab-count:1">&#xA0; </span>
+    <tt>/var/lib/tomcat7</tt>
+  </p></div></div>
+<div><a name="_dbserver" id="_dbserver"></a><h3>3.1.2
+    <tt>&lt;dbserver&gt;</tt>
+  </h3>
+
+  <p class="MsoNormal"><a name="_9ddcdd98-d1de-4adb-b02d-9e83a16f8f2c" id="_9ddcdd98-d1de-4adb-b02d-9e83a16f8f2c"></a>host name or IP address of the PostgreSQL server</p>
+</div>
+<div><a name="_dbport" id="_dbport"></a><h3>3.1.3
+    <tt>&lt;dbport&gt;</tt>
+  </h3>
+
+  <p class="MsoNormal"><a name="_d81ec345-f03c-4401-be5c-e29a9e61b6d6" id="_d81ec345-f03c-4401-be5c-e29a9e61b6d6"></a>port of the PostgreSQL server</p>
+</div>
+<div><a name="_dbname" id="_dbname"></a><h3>3.1.4
+    <tt>&lt;dbname&gt;</tt>
+  </h3>
+
+  <p class="MsoNormal"><a name="_e64c454f-9ad0-4921-96c9-37c040c43090" id="_e64c454f-9ad0-4921-96c9-37c040c43090"></a>name of the PostgreSQL database</p>
+</div>
+<div><a name="_dbuser" id="_dbuser"></a><h3>3.1.5
+    <tt>&lt;dbuser&gt;</tt>
+  </h3>
+
+  <p class="MsoNormal"><a name="_43121fda-42b1-4d4a-9799-7b803ec6ba42" id="_43121fda-42b1-4d4a-9799-7b803ec6ba42"></a>PostgreSQL login role that has full rights on the <tt>&lt;dbname&gt;</tt> database</p>
+</div>
+<div><a name="_dbpassword" id="_dbpassword"></a><h3>3.1.6
+    <tt>&lt;dbpassword&gt;</tt>
+  </h3>
+
+  <p class="MsoNormal"><a name="_dd6bf1f0-c57b-4908-ac51-c9b77fbef01e" id="_dd6bf1f0-c57b-4908-ac51-c9b77fbef01e"></a>password of <tt>&lt;dbuser&gt;</tt></p>
+</div>
+<div><a name="_host" id="_host"></a><h3>3.1.7
+    <tt>&lt;host&gt;</tt>
+  </h3>
+
+  <p class="MsoNormal"><a name="_86116d7b-75da-4ee9-8d61-bcacd242688e" id="_86116d7b-75da-4ee9-8d61-bcacd242688e"></a>host name or IP address of the installation server</p>
+</div>
+<div><a name="_port" id="_port"></a><h3>3.1.8 <tt>&lt;port&gt;</tt></h3><p class="MsoNormal"><a name="_431cdcba-8e61-41e4-9492-5945e4964526" id="_431cdcba-8e61-41e4-9492-5945e4964526"></a>port where Apache Tomcat listens for HTTP requests</p>
+<div class="example"><a name="_a935eaa0-2500-43d7-9acd-244d99a7a088" id="_a935eaa0-2500-43d7-9acd-244d99a7a088"></a><p class="MsoNormal"><span class="example_label">EXAMPLE</span><span style="mso-tab-count:1">&#xA0; </span>8080</p></div></div></div></div>
+      <div><a name="prerequisites" id="prerequisites"></a>
+        <h1>4<span style="mso-tab-count:1">&#xA0; </span>Prerequisites</h1>
+        <div><a name="_hardware_requirements" id="_hardware_requirements"></a><h2>4.1 Hardware requirements</h2><p class="MsoNormal"><a name="_e3565a13-360c-47ca-bcb5-530b17cb75a2" id="_e3565a13-360c-47ca-bcb5-530b17cb75a2"></a>Server load is difficult to predict, therefore live testing remains the best way to determine what hardware the ISO Registry instance will require in production. The values given below refer to the minimum available hardware to run the ISO Registry instance with five concurrent users.</p>
+
+  <p style="mso-list:l3 level1 lfo3;" class="MsoListParagraphCxSpFirst">
+    2 GHz+ CPU
+  </p>
+  <p style="mso-list:l3 level1 lfo3;" class="MsoListParagraphCxSpMiddle">
+    2048 MB RAM
+  </p>
+  <p style="mso-list:l3 level1 lfo3;" class="MsoListParagraphCxSpLast">
+    10 GB database space
+  </p>
+</div>
+        <div><a name="_system_requirements" id="_system_requirements"></a><h2>4.2 System requirements</h2>
+
+  <p class="TableTitle" align="center">Table 1</p><div align="center"><table style="mso-table-lspace:15.0cm;margin-left:423.0pt;mso-table-rspace:15.0cm;margin-right:423.0pt;mso-table-bspace:14.2pt;mso-table-anchor-vertical:paragraph;mso-table-anchor-horizontal:column;mso-table-overlap:never;" class="MsoISOTable" border="1" cellspacing="0" cellpadding="0"><a name="_9e4d0c7e-cd85-4b8b-b8d0-c1cb31e552bc" id="_9e4d0c7e-cd85-4b8b-b8d0-c1cb31e552bc"></a><tbody><tr><td align="left" style="border-top:solid windowtext 1.5pt;mso-border-top-alt:solid windowtext 1.5pt;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;">
+        <p class="MsoNormal"><a name="_11bd1c6a-a0be-4665-802c-e1b841cd398c" id="_11bd1c6a-a0be-4665-802c-e1b841cd398c"></a>Java version</p>
+      </td><td align="left" style="border-top:solid windowtext 1.5pt;mso-border-top-alt:solid windowtext 1.5pt;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;">
+        <table class="dl"><tr><td valign="top" align="left"><p align="left" style="margin-left:0pt;text-align:left;" class="MsoNormal">Oracle JRE / JDK</p></td><td valign="top">
+    <p class="MsoNormal"><a name="_915682f5-9bce-4bbd-8a25-1edce537792a" id="_915682f5-9bce-4bbd-8a25-1edce537792a"></a>1.7</p>
+  </td></tr><tr><td valign="top" align="left"><p align="left" style="margin-left:0pt;text-align:left;" class="MsoNormal">OpenJDK (IcedTea)</p></td><td valign="top">
+    <p class="MsoNormal"><a name="_7d7c2a55-7eae-41c1-ade1-6a13c6fa5356" id="_7d7c2a55-7eae-41c1-ade1-6a13c6fa5356"></a>2.4</p>
+  </td></tr></table>
+      </td></tr><tr><td align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;">
+        <p class="MsoNormal"><a name="_54b0736e-2077-4d0c-8fff-92087664d7db" id="_54b0736e-2077-4d0c-8fff-92087664d7db"></a>Operating systems for server</p>
+      </td><td align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;">
+        
+  <p style="mso-list:l3 level1 lfo4;" class="MsoListParagraphCxSpFirst">
+    Microsoft Windows
+  </p>
+  <p style="mso-list:l3 level1 lfo4;" class="MsoListParagraphCxSpLast">
+    Linux (Ubuntu LTS 14.04+)
+  </p>
+
+      </td></tr><tr><td align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;">
+        <p class="MsoNormal"><a name="_b27fecf7-fe21-4c13-9eee-e511934fe1b8" id="_b27fecf7-fe21-4c13-9eee-e511934fe1b8"></a>Application server</p>
+      </td><td align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;">
+        <table class="dl"><tr><td valign="top" align="left"><p align="left" style="margin-left:0pt;text-align:left;" class="MsoNormal">Apache Tomcat</p></td><td valign="top">
+    <p class="MsoNormal"><a name="_977e20a9-051e-4618-a7d8-3b15b1160f6d" id="_977e20a9-051e-4618-a7d8-3b15b1160f6d"></a>7.0.x</p>
+  </td></tr></table>
+      </td></tr><tr><td align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;">
+        <p class="MsoNormal"><a name="_a5138218-fcd5-44e2-a039-e2dd7da66584" id="_a5138218-fcd5-44e2-a039-e2dd7da66584"></a>Database</p>
+      </td><td align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;">
+        <table class="dl"><tr><td valign="top" align="left"><p align="left" style="margin-left:0pt;text-align:left;" class="MsoNormal">PostgreSQL</p></td><td valign="top">
+    <p class="MsoNormal"><a name="_52e22226-84d1-4d7f-ba04-c73fa82da417" id="_52e22226-84d1-4d7f-ba04-c73fa82da417"></a>9.1, 9.2, 9.3</p>
+  </td></tr></table>
+      </td></tr><tr><td align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;">
+        <p class="MsoNormal"><a name="_fecb9c3f-29eb-483d-abe1-1e020e8be0b0" id="_fecb9c3f-29eb-483d-abe1-1e020e8be0b0"></a>Web browsers &#x2013; desktop</p>
+      </td><td align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;">
+        <table class="dl"><tr><td valign="top" align="left"><p align="left" style="margin-left:0pt;text-align:left;" class="MsoNormal">Microsoft Internet Explorer (Windows)</p></td><td valign="top">
+    <p class="MsoNormal"><a name="_7f7b5d99-3c96-4204-8034-1f3d6c84843f" id="_7f7b5d99-3c96-4204-8034-1f3d6c84843f"></a>10, 11</p>
+  </td></tr><tr><td valign="top" align="left"><p align="left" style="margin-left:0pt;text-align:left;" class="MsoNormal">Mozilla Firefox (all platforms)</p></td><td valign="top">
+    <p class="MsoNormal"><a name="_decfc4d6-ab26-4fbe-8a82-3fbbbec403d2" id="_decfc4d6-ab26-4fbe-8a82-3fbbbec403d2"></a>latest stable version</p>
+  </td></tr><tr><td valign="top" align="left"><p align="left" style="margin-left:0pt;text-align:left;" class="MsoNormal">Google Chrome (Windows and Mac)</p></td><td valign="top">
+    <p class="MsoNormal"><a name="_f9643e1b-3770-41a5-a4d2-0d0153cbeb2a" id="_f9643e1b-3770-41a5-a4d2-0d0153cbeb2a"></a>latest stable version</p>
+  </td></tr></table>
+      </td></tr><tr><td align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.5pt;mso-border-bottom-alt:solid windowtext 1.5pt;">
+        <p class="MsoNormal"><a name="_6e9795e9-3cbb-4eb2-b395-ddd15622681d" id="_6e9795e9-3cbb-4eb2-b395-ddd15622681d"></a>Web browsers &#x2013; mobile</p>
+      </td><td align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.5pt;mso-border-bottom-alt:solid windowtext 1.5pt;">
+        <table class="dl"><tr><td valign="top" align="left"><p align="left" style="margin-left:0pt;text-align:left;" class="MsoNormal">Android (Android)</p></td><td valign="top">
+    <p class="MsoNormal"><a name="_3220b4df-1f56-4060-80af-43059ca7f06d" id="_3220b4df-1f56-4060-80af-43059ca7f06d"></a>the default Android browser</p>
+  </td></tr><tr><td valign="top" align="left"><p align="left" style="margin-left:0pt;text-align:left;" class="MsoNormal">Chrome (Android and iOS)</p></td><td valign="top">
+    <p class="MsoNormal"><a name="_64ecb4d8-43c6-459d-92e8-baaeecda8ea1" id="_64ecb4d8-43c6-459d-92e8-baaeecda8ea1"></a>latest stable version</p>
+  </td></tr></table>
+      </td></tr></tbody></table></div>
+</div>
+        <div><a name="_skill_requirements" id="_skill_requirements"></a><h2>4.3 Skill requirements</h2><p class="MsoNormal"><a name="_bc75f319-4737-4e16-9213-0e4fb4832521" id="_bc75f319-4737-4e16-9213-0e4fb4832521"></a>This document assumes that you:</p>
+
+  <p style="mso-list:l3 level1 lfo5;" class="MsoListParagraphCxSpFirst">
+    are familiar with administrating Linux systems
+  </p>
+  <p style="mso-list:l3 level1 lfo5;" class="MsoListParagraphCxSpLast">
+    have root access to the server used for installation
+  </p>
+</div>
+      </div>
+      <div><a name="installation" id="installation"></a>
+        <h1>5<span style="mso-tab-count:1">&#xA0; </span>Installation</h1>
+        <div><a name="_prerequisites" id="_prerequisites"></a><h2>5.1 Prerequisites</h2><p class="MsoNormal"><a name="_6df6ef18-f57f-4524-a204-a4b9dbeba820" id="_6df6ef18-f57f-4524-a204-a4b9dbeba820"></a>The steps in this section depend on the following assumptions.</p>
+
+  <p style="mso-list:l3 level1 lfo6;" class="MsoListParagraphCxSpFirst">
+    The following components have been installed on the server:
+    
+  <p style="mso-list:l3 level2 lfo6;" class="MsoListParagraphCxSpFirst">
+    OpenJDK 7 or Oracle JDK/JRE 7
+  </p>
+  <p style="mso-list:l3 level2 lfo6;" class="MsoListParagraphCxSpLast">
+    Apache Tomcat 7.0.x
+  </p>
+
+  </p>
+  <p style="mso-list:l3 level1 lfo6;" class="MsoListParagraphCxSpMiddle">
+    The server can connect to a PostgreSQL instance and:
+    
+  <p style="mso-list:l3 level2 lfo6;" class="MsoListParagraphCxSpFirst">
+    the database <tt>&lt;dbname&gt;</tt> for the ISO Registry was created
+  </p>
+  <p style="mso-list:l3 level2 lfo6;" class="MsoListParagraphCxSpLast">
+    the database user <tt>&lt;dbuser&gt;</tt> with password <tt>&lt;dbpassword&gt;</tt> exists and has full rights on the <tt>&lt;dbname&gt;</tt> database
+  </p>
+
+  </p>
+  <p style="mso-list:l3 level1 lfo6;" class="MsoListParagraphCxSpLast">
+    The server can connect to an SMTP server that will deliver mails sent by the registry software.
+  </p>
+
+<p class="MsoNormal"><a name="_d39059d8-f5b8-4f34-9d1e-cd8748ab75ea" id="_d39059d8-f5b8-4f34-9d1e-cd8748ab75ea"></a>The <tt>commands</tt> shown work on servers running Ubuntu LTS 14.04 (and possibly later Ubuntu versions). In case your server runs a different distribution you must modify the commands to fit that platform.</p></div>
+        <div><a name="_steps" id="_steps"></a><h2>5.2 Steps</h2>
+
+  
+  <p style="mso-list:l2 level1 lfo1;" class="MsoListParagraphCxSpFirst">
+    Load the database dump <tt>iso-gcp-minimal.backup</tt> into the <tt>isoreg</tt> database (for example, through <tt>PgAdmin</tt>).<br/>
+    <p class="ListContLevel1"><a name="_f4a835d5-f8fd-47dd-9d90-0c27171155d7" id="_f4a835d5-f8fd-47dd-9d90-0c27171155d7"></a>The dump contains a minimal version of the ISO Registry of Geodetic Codes and Parameters, including example users. For further details, see <a href="#configuration">configuration</a>.</p>
+  </p>
+  <p style="mso-list:l2 level1 lfo1;" class="MsoListParagraphCxSpMiddle">
+    Copy the web archive <tt>iso-registry-client.war</tt> to <tt>&lt;Tomcat7&gt;/webapps</tt>, the directory that contains Tomcat&#x2019;s webapps (e.g. <tt>/var/lib/tomcat7/webapps</tt>).
+  </p>
+  <p style="mso-list:l2 level1 lfo1;" class="MsoListParagraphCxSpMiddle">
+    Apache Tomcat should unpack the web archive to the sub-directory <tt>iso-registry-client</tt>.
+  </p>
+  <p style="mso-list:l2 level1 lfo1;" class="MsoListParagraphCxSpMiddle">Stop Apache Tomcat<br/><p class="ListContLevel1"><a name="_29cdb9bd-04ba-4748-a3a1-6e5e62de8c89" id="_29cdb9bd-04ba-4748-a3a1-6e5e62de8c89"></a>service tomcat7 stop</p>
+</p>
+  <p style="mso-list:l2 level1 lfo1;" class="MsoListParagraphCxSpMiddle">Change to the directory <tt>iso-registry-client/WEB-INF/classes</tt> and edit the following configuration files:<br/>
+  <p style="mso-list:l3 level2 lfo1;" class="MsoListParagraphCxSpFirst">
+    
+      <tt>registry.configuration.xml</tt>
+    
+  </p>
+  <p style="mso-list:l3 level2 lfo1;" class="MsoListParagraphCxSpMiddle">
+    
+      <tt>client.configuration.xml</tt>
+    
+  </p>
+  <p style="mso-list:l3 level2 lfo1;" class="MsoListParagraphCxSpMiddle">
+    <tt>hibernate.connection.xml</tt> and
+  </p>
+  <p style="mso-list:l3 level2 lfo1;" class="MsoListParagraphCxSpLast">
+    <tt>hibernate.properties.xml</tt>.
+  </p>
+
+<p class="ListContLevel1"><a name="_891edab7-b23d-4866-83ed-b83e2fdee424" id="_891edab7-b23d-4866-83ed-b83e2fdee424"></a>For a list of all configuration settings, see section 1.6.</p></p>
+  <p style="mso-list:l2 level1 lfo1;" class="MsoListParagraphCxSpMiddle">Start Apache Tomcat	+<p class="ListContLevel1"><a name="_0f3a3945-a1ba-41ab-8d1d-1effda7b6162" id="_0f3a3945-a1ba-41ab-8d1d-1effda7b6162"></a>service tomcat7 start</p>
+</p>
+  <p style="mso-list:l2 level1 lfo1;" class="MsoListParagraphCxSpLast">
+    To access the ISO Registry of Geodetic Codes and Parameters, open a browser and navigate to <tt><a href="http://&lt;application">http://<application></application></a> server URL&gt;/iso-registry-client</tt>. For example, with Tomcat running on port <tt>8080</tt> on <tt>localhost</tt>, the URL would be <a href="http://localhost:8080/iso-registry-client">http://localhost:8080/iso-registry-client</a>.
+== Configuration
+  </p>
+
+</div>
+        <div><a name="_database_connection_hibernate_connection_xml" id="_database_connection_hibernate_connection_xml"></a><h2>5.3 Database connection (<tt>hibernate.connection.xml</tt>)</h2>
+
+  <table class="dl"><tr><td valign="top" align="left"><p align="left" style="margin-left:0pt;text-align:left;" class="MsoNormal">
+    <tt>hibernate.connection.username</tt>
+  </p></td><td valign="top">
+    <p class="MsoNormal"><a name="_08e01f60-e59a-487f-8a2d-a402dbde44c2" id="_08e01f60-e59a-487f-8a2d-a402dbde44c2"></a>&lt;dbuser&gt;</p>
+  </td></tr><tr><td valign="top" align="left"><p align="left" style="margin-left:0pt;text-align:left;" class="MsoNormal">
+    <tt>hibernate.connection.password</tt>
+  </p></td><td valign="top">
+    <p class="MsoNormal"><a name="_b384f558-67c0-4add-b453-abcaeda64329" id="_b384f558-67c0-4add-b453-abcaeda64329"></a>&lt;dbpassword&gt;</p>
+  </td></tr><tr><td valign="top" align="left"><p align="left" style="margin-left:0pt;text-align:left;" class="MsoNormal">
+    <tt>hibernate.connection.url</tt>
+  </p></td><td valign="top">
+    <p class="MsoNormal"><a name="_8d16cc62-df30-42e5-87fe-a07631d10b0a" id="_8d16cc62-df30-42e5-87fe-a07631d10b0a"></a>jdbc:postgresql://&lt;dbhost&gt;:&lt;dbport&gt;/isoreg</p>
+  </td></tr></table>
+</div>
+        <div><a name="_database_parameters_hibernate_properties_xml" id="_database_parameters_hibernate_properties_xml"></a><h2>5.4 Database parameters (<tt>hibernate.properties.xml</tt>)</h2>
+
+  <table class="dl"><tr><td valign="top" align="left"><p align="left" style="margin-left:0pt;text-align:left;" class="MsoNormal">
+    <tt>hibernate.hbm2ddl.auto</tt>
+  </p></td><td valign="top">
+    
+  <p style="mso-list:l3 level1 lfo7;" class="MsoListParagraphCxSpFirst">
+    <tt>validate</tt> &#x2013; for standard production use
+  </p>
+  <p style="mso-list:l3 level1 lfo7;" class="MsoListParagraphCxSpMiddle">
+    <tt>update</tt> &#x2013; when performing a software update
+  </p>
+  <p style="mso-list:l3 level1 lfo7;" class="MsoListParagraphCxSpLast">
+    <tt>create</tt> &#x2013; when installing for the time
+  </p>
+
+  </td></tr></table>
+</div>
+        <div><a name="_registry_configuration_registry_configuration_xml" id="_registry_configuration_registry_configuration_xml"></a><h2>5.5 Registry configuration (<tt>registry.configuration.xml</tt>)</h2>
+
+  <table class="dl"><tr><td valign="top" align="left"><p align="left" style="margin-left:0pt;text-align:left;" class="MsoNormal">
+    <tt>mail.enabled</tt>
+  </p></td><td valign="top">
+    
+  <p style="mso-list:l3 level1 lfo8;" class="MsoListParagraphCxSpFirst">
+    <tt>true</tt> &#x2013; mail sending is enabled
+  </p>
+  <p style="mso-list:l3 level1 lfo8;" class="MsoListParagraphCxSpLast">
+    <tt>false</tt> &#x2013; mail sending is disabled
+  </p>
+
+  </td></tr><tr><td valign="top" align="left"><p align="left" style="margin-left:0pt;text-align:left;" class="MsoNormal">
+    <tt>mail.from.name</tt>
+  </p></td><td valign="top">
+    <p class="MsoNormal"><a name="_df26e502-6022-4711-8370-8c3f52d9248f" id="_df26e502-6022-4711-8370-8c3f52d9248f"></a>Mail name used in From header</p>
+  </td></tr><tr><td valign="top" align="left"><p align="left" style="margin-left:0pt;text-align:left;" class="MsoNormal">
+    <tt>mail.from.address</tt>
+  </p></td><td valign="top">
+    <p class="MsoNormal"><a name="_b82dc0ab-f301-4119-96ca-2249618b7e82" id="_b82dc0ab-f301-4119-96ca-2249618b7e82"></a>E-mail address used in From header</p>
+  </td></tr><tr><td valign="top" align="left"><p align="left" style="margin-left:0pt;text-align:left;" class="MsoNormal">
+    <tt>mail.smtp.auth</tt>
+  </p></td><td valign="top">
+    <p class="MsoNormal"><a name="_ed20cdd9-87bb-4216-81b8-c195113c0346" id="_ed20cdd9-87bb-4216-81b8-c195113c0346"></a>Switch to activate SMTP authentication (true, false)</p>
+  </td></tr><tr><td valign="top" align="left"><p align="left" style="margin-left:0pt;text-align:left;" class="MsoNormal">
+    <tt>mail.smtp.starttls.enable</tt>
+  </p></td><td valign="top">
+    <p class="MsoNormal"><a name="_2d8626fb-2d1b-47f6-a28e-dd90bf46b875" id="_2d8626fb-2d1b-47f6-a28e-dd90bf46b875"></a>Switch to activate STARTTLS SMTP authentication (true, false)</p>
+  </td></tr><tr><td valign="top" align="left"><p align="left" style="margin-left:0pt;text-align:left;" class="MsoNormal">
+    <tt>mail.smtp.host</tt>
+  </p></td><td valign="top">
+    <p class="MsoNormal"><a name="_93fab00b-cbbc-460e-90e5-c77a104b0410" id="_93fab00b-cbbc-460e-90e5-c77a104b0410"></a>Host name or IP address of SMTP server</p>
+  </td></tr><tr><td valign="top" align="left"><p align="left" style="margin-left:0pt;text-align:left;" class="MsoNormal">
+    <tt>mail.smtp.port</tt>
+  </p></td><td valign="top">
+    <p class="MsoNormal"><a name="_69046b88-c6c7-43b4-a092-1fe937754608" id="_69046b88-c6c7-43b4-a092-1fe937754608"></a>Port number of SMTP server (TLS: 587, plain: 25)</p>
+  </td></tr><tr><td valign="top" align="left"><p align="left" style="margin-left:0pt;text-align:left;" class="MsoNormal">
+    <tt>mail.smtp.user</tt>
+  </p></td><td valign="top">
+    <p class="MsoNormal"><a name="_6b82840a-8c82-4a6d-9428-6ae014050454" id="_6b82840a-8c82-4a6d-9428-6ae014050454"></a>User name used for SMTP authentication</p>
+  </td></tr><tr><td valign="top" align="left"><p align="left" style="margin-left:0pt;text-align:left;" class="MsoNormal">
+    <tt>mail.smtp.password</tt>
+  </p></td><td valign="top">
+    <p class="MsoNormal"><a name="_811fd840-712a-419e-8686-c4a04d0ed39c" id="_811fd840-712a-419e-8686-c4a04d0ed39c"></a>Password used for SMTP authentication (plain text)</p>
+  </td></tr></table>
+</div>
+        <div><a name="_registry_client_configuration_client_configuration_xml" id="_registry_client_configuration_client_configuration_xml"></a><h2>5.6 Registry client configuration (<tt>client.configuration.xml</tt>)</h2>
+
+  <table class="dl"><tr><td valign="top" align="left"><p align="left" style="margin-left:0pt;text-align:left;" class="MsoNormal">
+    <tt>basePath</tt>
+  </p></td><td valign="top"><p class="MsoNormal"><a name="_3c35ea0e-cf8b-40db-9350-410eac6b290e" id="_3c35ea0e-cf8b-40db-9350-410eac6b290e"></a>If you run Apache Tomcat behind a reverse proxy this parameters must be set to the context path used by external clients, preceded by a tilde.<br/></p><p class="MsoNormal"><a name="_3bd1aed7-f859-4764-9bc5-8688fe6d8aaf" id="_3bd1aed7-f859-4764-9bc5-8688fe6d8aaf"></a>If e.g. the registry is accessed from the outside via the URL <a href="http://registry.isotc211.org/gcp">http://registry.isotc211.org/gcp</a> the parameter must be set to <tt>~/gcp</tt>.<br/></p>
+<p class="MsoNormal"><a name="_3e482f41-80bb-4a04-930c-c4f4f38da4c9" id="_3e482f41-80bb-4a04-930c-c4f4f38da4c9"></a>In environments without a reverse proxy this parameters must be left empty.</p></td></tr></table>
+</div>
+      </div>
+      <p class="MsoNormal">
+        <br clear="all" style="mso-special-character:line-break;page-break-before:always"/>
+      </p>
+      <div class="Section3"><a name="_default_users" id="_default_users"></a>
+        <h1 class="Annex"><b>Annex A</b><br/>(informative)<br/><br/><b>Default users</b></h1>
+        <p class="MsoNormal"><a name="_7c6234d7-6f99-4d2c-b2d9-ff14b7aa7aba" id="_7c6234d7-6f99-4d2c-b2d9-ff14b7aa7aba"></a>The minimal database in <tt>iso-gcp-minimal.backup</tt> contains the following users:</p>
+        <p class="TableTitle" align="center">Table A.1</p>
+        <div align="center">
+          <table style="mso-table-lspace:15.0cm;margin-left:423.0pt;mso-table-rspace:15.0cm;margin-right:423.0pt;mso-table-bspace:14.2pt;mso-table-anchor-vertical:paragraph;mso-table-anchor-horizontal:column;mso-table-overlap:never;" class="MsoISOTable" border="1" cellspacing="0" cellpadding="0"><a name="_94351116-d57d-469f-8366-72f8e2287b05" id="_94351116-d57d-469f-8366-72f8e2287b05"></a>
+            <thead>
+              <tr>
+                <th align="left" style="font-weight:bold;border-top:solid windowtext 1.5pt;mso-border-top-alt:solid windowtext 1.5pt;border-bottom:solid windowtext 1.5pt;mso-border-bottom-alt:solid windowtext 1.5pt;">Login (e-mail)</th>
+                <th align="left" style="font-weight:bold;border-top:solid windowtext 1.5pt;mso-border-top-alt:solid windowtext 1.5pt;border-bottom:solid windowtext 1.5pt;mso-border-bottom-alt:solid windowtext 1.5pt;">Password</th>
+                <th align="left" style="font-weight:bold;border-top:solid windowtext 1.5pt;mso-border-top-alt:solid windowtext 1.5pt;border-bottom:solid windowtext 1.5pt;mso-border-bottom-alt:solid windowtext 1.5pt;">Roles</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" style="border-top:solid windowtext 1.5pt;mso-border-top-alt:solid windowtext 1.5pt;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;">
+        <p class="MsoNormal"><a name="_c5902251-3cb3-4b50-973f-a4cd0829f66d" id="_c5902251-3cb3-4b50-973f-a4cd0829f66d"></a>
+  <a href="mailto:admin@example.org">admin@example.org</a>
+</p>
+      </td>
+                <td align="left" style="border-top:solid windowtext 1.5pt;mso-border-top-alt:solid windowtext 1.5pt;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;">
+        <p class="MsoNormal"><a name="_fa0c7281-cd57-4e94-9ff8-5c09dea9c083" id="_fa0c7281-cd57-4e94-9ff8-5c09dea9c083"></a>a</p>
+      </td>
+                <td align="left" style="border-top:solid windowtext 1.5pt;mso-border-top-alt:solid windowtext 1.5pt;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;">
+        <p class="MsoNormal"><a name="_1e682811-8677-4a35-a4bd-a600d5dabcd0" id="_1e682811-8677-4a35-a4bd-a600d5dabcd0"></a>Administrator</p>
+      </td>
+              </tr>
+              <tr>
+                <td align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;">
+        <p class="MsoNormal"><a name="_0dbcc887-96a6-4e97-9d78-049c0a711dc4" id="_0dbcc887-96a6-4e97-9d78-049c0a711dc4"></a>
+  <a href="mailto:controlbody@example.org">controlbody@example.org</a>
+</p>
+      </td>
+                <td align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;">
+        <p class="MsoNormal"><a name="_00431cf8-d021-46b2-a850-dbec5d558dd6" id="_00431cf8-d021-46b2-a850-dbec5d558dd6"></a>c</p>
+      </td>
+                <td align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;">
+        <p class="MsoNormal"><a name="_65dacf4a-9d57-450c-a641-9ab5d9943118" id="_65dacf4a-9d57-450c-a641-9ab5d9943118"></a>Control Body</p>
+      </td>
+              </tr>
+              <tr>
+                <td align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;">
+        <p class="MsoNormal"><a name="_9199321e-40f7-400d-8f3f-9dbea09d1b2b" id="_9199321e-40f7-400d-8f3f-9dbea09d1b2b"></a>
+  <a href="mailto:regman@example.org">regman@example.org</a>
+</p>
+      </td>
+                <td align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;">
+        <p class="MsoNormal"><a name="_14cbc97e-89df-416a-a523-4c7ff2ea9c84" id="_14cbc97e-89df-416a-a523-4c7ff2ea9c84"></a>r</p>
+      </td>
+                <td align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;">
+        <p class="MsoNormal"><a name="_9d556698-6f87-451f-ade2-f7e4f0d538b7" id="_9d556698-6f87-451f-ade2-f7e4f0d538b7"></a>Register Manager</p>
+      </td>
+              </tr>
+              <tr>
+                <td align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;">
+        <p class="MsoNormal"><a name="_54ae9ed2-088a-4e5b-a321-ca850e71abee" id="_54ae9ed2-088a-4e5b-a321-ca850e71abee"></a>
+  <a href="mailto:owner@example.org">owner@example.org</a>
+</p>
+      </td>
+                <td align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;">
+        <p class="MsoNormal"><a name="_646ca26b-825b-4b24-908a-5d273761d354" id="_646ca26b-825b-4b24-908a-5d273761d354"></a>o</p>
+      </td>
+                <td align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;">
+        <p class="MsoNormal"><a name="_0015d9ad-f46a-485f-a083-0476116af15e" id="_0015d9ad-f46a-485f-a083-0476116af15e"></a>Register Owner</p>
+      </td>
+              </tr>
+              <tr>
+                <td align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;">
+        <p class="MsoNormal"><a name="_36753908-8273-4ef1-baac-0db10266456d" id="_36753908-8273-4ef1-baac-0db10266456d"></a>
+  <a href="mailto:submitter@example.org">submitter@example.org</a>
+</p>
+      </td>
+                <td align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;">
+        <p class="MsoNormal"><a name="_b64adbe3-ffcb-4c24-bb16-b2d5cd9b3989" id="_b64adbe3-ffcb-4c24-bb16-b2d5cd9b3989"></a>s</p>
+      </td>
+                <td align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext 1.0pt;">
+        <p class="MsoNormal"><a name="_3172e8fc-0cac-4476-b52e-9b1c69e8bbf5" id="_3172e8fc-0cac-4476-b52e-9b1c69e8bbf5"></a>Submitter</p>
+      </td>
+              </tr>
+              <tr>
+                <td align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.5pt;mso-border-bottom-alt:solid windowtext 1.5pt;">
+        <p class="MsoNormal"><a name="_584b5054-c5e3-4e50-acbd-e53e18971014" id="_584b5054-c5e3-4e50-acbd-e53e18971014"></a>
+  <a href="mailto:poc@example.org">poc@example.org</a>
+</p>
+      </td>
+                <td align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.5pt;mso-border-bottom-alt:solid windowtext 1.5pt;">
+        <p class="MsoNormal"><a name="_fb51ad77-bb3b-4c74-93a7-d3953bf9b320" id="_fb51ad77-bb3b-4c74-93a7-d3953bf9b320"></a>p</p>
+      </td>
+                <td align="left" style="border-top:none;mso-border-top-alt:none;border-bottom:solid windowtext 1.5pt;mso-border-bottom-alt:solid windowtext 1.5pt;">
+        <p class="MsoNormal"><a name="_a2265ed1-08db-4daa-b3a9-3694dc410d09" id="_a2265ed1-08db-4daa-b3a9-3694dc410d09"></a>Point of Contact of &#x201C;Example Organization&#x201D;</p>
+      </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+      <p class="MsoNormal">
+        <br clear="all" style="mso-special-character:line-break;page-break-before:always"/>
+      </p>
+      <div>
+        <h1 class="Section3">Bibliography</h1>
+        <p class="Biblio"><a name="ISO19111" id="ISO19111"></a>[1]<span style="mso-tab-count:1">&#xA0; </span>ISO 19111:2007, <i> Geographic information&#x2009;&#x2014;&#x2009;Spatial referencing by coordinates</i></p>
+        <p class="Biblio"><a name="ISO19135" id="ISO19135"></a>[2]<span style="mso-tab-count:1">&#xA0; </span>ISO 19135:2005, <i> Geographic information&#x2009;&#x2014;&#x2009;Procedures for item registration</i></p>
+        <p class="Biblio"><a name="ISO19135-1" id="ISO19135-1"></a>[3]<span style="mso-tab-count:1">&#xA0; </span>ISO 19135-1, <i> Geographic information&#x2009;&#x2014;&#x2009;Procedures for item registration&#x2009;&#x2014;&#x2009;Part 1: Fundamentals</i></p>
+        <p class="Biblio"><a name="ISO19135-2" id="ISO19135-2"></a>[4]<span style="mso-tab-count:1">&#xA0; </span>ISO 19135-2:2012, <i> Procedures for item registration&#x2009;&#x2014;&#x2009;Part 2: XML schema implementation</i></p>
+      </div>
+    </div>
+    <br clear="all" style="page-break-before:left;mso-break-type:section-break"/>
+    <div class="colophon"></div>
+  <div style="mso-element:footnote-list"/></body>
+</html>
+
+
+------=_NextPart_e3b579eb.9724.4dc8
+Content-Location: file:///C:/Doc/document_files/filelist.xml
+Content-Transfer-Encoding: base64
+Content-Type: application/xml
+
+PHhtbCB4bWxuczpvPSJ1cm46c2NoZW1hcy1taWNyb3NvZnQtY29tOm9mZmljZTpvZmZpY2UiPgog
+ICAgICAgIDxvOk1haW5GaWxlIEhSZWY9Ii4uL3NvdXJjZXMvaW5zdGFsbC1ndWlkZS9kb2N1bWVu
+dC5odG0iLz4gIDxvOkZpbGUgSFJlZj0iZmlsZWxpc3QueG1sIi8+CiAgPG86RmlsZSBIUmVmPSJo
+ZWFkZXIuaHRtbCIvPgo8L3htbD4K
+
+------=_NextPart_e3b579eb.9724.4dc8
+Content-Location: file:///C:/Doc/document_files/header.html
+Content-Transfer-Encoding: base64
+Content-Type: text/html charset="utf-8"
+
+PGh0bWwgeG1sbnM6dj0idXJuOnNjaGVtYXMtbWljcm9zb2Z0LWNvbTp2bWwiDQp4bWxuczpvPSJ1
+cm46c2NoZW1hcy1taWNyb3NvZnQtY29tOm9mZmljZTpvZmZpY2UiDQp4bWxuczp3PSJ1cm46c2No
+ZW1hcy1taWNyb3NvZnQtY29tOm9mZmljZTp3b3JkIg0KeG1sbnM6bT0iaHR0cDovL3NjaGVtYXMu
+bWljcm9zb2Z0LmNvbS9vZmZpY2UvMjAwNC8xMi9vbW1sIg0KeG1sbnM6bXY9Imh0dHA6Ly9tYWNW
+bWxTY2hlbWFVcmkiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy9UUi9SRUMtaHRtbDQwIj4NCg0K
+PGhlYWQ+DQo8bWV0YSBuYW1lPVRpdGxlIGNvbnRlbnQ9IiI+DQo8bWV0YSBuYW1lPUtleXdvcmRz
+IGNvbnRlbnQ9IiI+DQo8bWV0YSBodHRwLWVxdWl2PUNvbnRlbnQtVHlwZSBjb250ZW50PSJ0ZXh0
+L2h0bWw7IGNoYXJzZXQ9dXRmLTgiPg0KPG1ldGEgbmFtZT1Qcm9nSWQgY29udGVudD1Xb3JkLkRv
+Y3VtZW50Pg0KPG1ldGEgbmFtZT1HZW5lcmF0b3IgY29udGVudD0iTWljcm9zb2Z0IFdvcmQgMTUi
+Pg0KPG1ldGEgbmFtZT1PcmlnaW5hdG9yIGNvbnRlbnQ9Ik1pY3Jvc29mdCBXb3JkIDE1Ij4NCjxs
+aW5rIGlkPU1haW4tRmlsZSByZWw9TWFpbi1GaWxlIGhyZWY9Ii4uL3NvdXJjZXMvaW5zdGFsbC1n
+dWlkZS9kb2N1bWVudC5odG1sIj4NCjwhLS1baWYgZ3RlIG1zbyA5XT48eG1sPg0KIDxvOnNoYXBl
+ZGVmYXVsdHMgdjpleHQ9ImVkaXQiIHNwaWRtYXg9IjIwNDkiLz4NCjwveG1sPjwhW2VuZGlmXS0t
+Pg0KPC9oZWFkPg0KDQo8Ym9keSBsYW5nPUVOIGxpbms9Ymx1ZSB2bGluaz0iIzk1NEY3MiI+DQoN
+CjxkaXYgc3R5bGU9J21zby1lbGVtZW50OmZvb3Rub3RlLXNlcGFyYXRvcicgaWQ9ZnM+DQoNCjxw
+IGNsYXNzPU1zb05vcm1hbCBzdHlsZT0nbWFyZ2luLWJvdHRvbTowY207bWFyZ2luLWJvdHRvbTou
+MDAwMXB0O2xpbmUtaGVpZ2h0Og0Kbm9ybWFsJz48c3BhbiBsYW5nPUVOLUdCPjxzcGFuIHN0eWxl
+PSdtc28tc3BlY2lhbC1jaGFyYWN0ZXI6Zm9vdG5vdGUtc2VwYXJhdG9yJz48IVtpZiAhc3VwcG9y
+dEZvb3Rub3Rlc10+DQoNCjxociBhbGlnbj1sZWZ0IHNpemU9MSB3aWR0aD0iMzMlIj4NCg0KPCFb
+ZW5kaWZdPjwvc3Bhbj48L3NwYW4+PC9wPg0KDQo8L2Rpdj4NCg0KPGRpdiBzdHlsZT0nbXNvLWVs
+ZW1lbnQ6Zm9vdG5vdGUtY29udGludWF0aW9uLXNlcGFyYXRvcicgaWQ9ZmNzPg0KDQo8cCBjbGFz
+cz1Nc29Ob3JtYWwgc3R5bGU9J21hcmdpbi1ib3R0b206MGNtO21hcmdpbi1ib3R0b206LjAwMDFw
+dDtsaW5lLWhlaWdodDoNCm5vcm1hbCc+PHNwYW4gbGFuZz1FTi1HQj48c3BhbiBzdHlsZT0nbXNv
+LXNwZWNpYWwtY2hhcmFjdGVyOmZvb3Rub3RlLWNvbnRpbnVhdGlvbi1zZXBhcmF0b3InPjwhW2lm
+ICFzdXBwb3J0Rm9vdG5vdGVzXT4NCg0KPGhyIGFsaWduPWxlZnQgc2l6ZT0xPg0KDQo8IVtlbmRp
+Zl0+PC9zcGFuPjwvc3Bhbj48L3A+DQoNCjwvZGl2Pg0KDQo8ZGl2IHN0eWxlPSdtc28tZWxlbWVu
+dDplbmRub3RlLXNlcGFyYXRvcicgaWQ9ZXM+DQoNCjxwIGNsYXNzPU1zb05vcm1hbCBzdHlsZT0n
+bWFyZ2luLWJvdHRvbTowY207bWFyZ2luLWJvdHRvbTouMDAwMXB0O2xpbmUtaGVpZ2h0Og0Kbm9y
+bWFsJz48c3BhbiBsYW5nPUVOLUdCPjxzcGFuIHN0eWxlPSdtc28tc3BlY2lhbC1jaGFyYWN0ZXI6
+Zm9vdG5vdGUtc2VwYXJhdG9yJz48IVtpZiAhc3VwcG9ydEZvb3Rub3Rlc10+DQoNCjxociBhbGln
+bj1sZWZ0IHNpemU9MSB3aWR0aD0iMzMlIj4NCg0KPCFbZW5kaWZdPjwvc3Bhbj48L3NwYW4+PC9w
+Pg0KDQo8L2Rpdj4NCg0KPGRpdiBzdHlsZT0nbXNvLWVsZW1lbnQ6ZW5kbm90ZS1jb250aW51YXRp
+b24tc2VwYXJhdG9yJyBpZD1lY3M+DQoNCjxwIGNsYXNzPU1zb05vcm1hbCBzdHlsZT0nbWFyZ2lu
+LWJvdHRvbTowY207bWFyZ2luLWJvdHRvbTouMDAwMXB0O2xpbmUtaGVpZ2h0Og0Kbm9ybWFsJz48
+c3BhbiBsYW5nPUVOLUdCPjxzcGFuIHN0eWxlPSdtc28tc3BlY2lhbC1jaGFyYWN0ZXI6Zm9vdG5v
+dGUtY29udGludWF0aW9uLXNlcGFyYXRvcic+PCFbaWYgIXN1cHBvcnRGb290bm90ZXNdPg0KDQo8
+aHIgYWxpZ249bGVmdCBzaXplPTE+DQoNCjwhW2VuZGlmXT48L3NwYW4+PC9zcGFuPjwvcD4NCg0K
+PC9kaXY+DQoNCjxkaXYgc3R5bGU9J21zby1lbGVtZW50OmhlYWRlcicgaWQ9ZWhhPg0KDQo8cCBj
+bGFzcz1Nc29IZWFkZXIgYWxpZ249bGVmdCBzdHlsZT0ndGV4dC1hbGlnbjpsZWZ0O2xpbmUtaGVp
+Z2h0OjEyLjBwdDsNCm1zby1saW5lLWhlaWdodC1ydWxlOmV4YWN0bHknPjxzcGFuIGxhbmc9RU4t
+R0I+SVNPIDIxMTk4OjIwMTk6MjAxOShFKTwvc3Bhbj48L3A+DQoNCjwvZGl2Pg0KDQo8ZGl2IHN0
+eWxlPSdtc28tZWxlbWVudDpoZWFkZXInIGlkPWhhPg0KDQo8cCBjbGFzcz1Nc29IZWFkZXIgc3R5
+bGU9J21hcmdpbi1ib3R0b206MTguMHB0Jz48c3BhbiBsYW5nPUVOLUdCDQpzdHlsZT0nZm9udC1z
+aXplOjEwLjBwdDttc28tYmlkaS1mb250LXNpemU6MTEuMHB0O2ZvbnQtd2VpZ2h0Om5vcm1hbCc+
+wqkNCklTTyZuYnNwOzIwMTkmbmJzcDvigJMgQWxsIHJpZ2h0cyByZXNlcnZlZDwvc3Bhbj48c3Bh
+biBsYW5nPUVOLUdCDQpzdHlsZT0nZm9udC13ZWlnaHQ6bm9ybWFsJz48bzpwPjwvbzpwPjwvc3Bh
+bj48L3A+DQoNCjwvZGl2Pg0KDQo8ZGl2IHN0eWxlPSdtc28tZWxlbWVudDpmb290ZXInIGlkPWVm
+YT4NCg0KPHAgY2xhc3M9TXNvRm9vdGVyIHN0eWxlPSdtYXJnaW4tdG9wOjEyLjBwdDtsaW5lLWhl
+aWdodDoxMi4wcHQ7bXNvLWxpbmUtaGVpZ2h0LXJ1bGU6DQpleGFjdGx5Jz48IS0tW2lmIHN1cHBv
+cnRGaWVsZHNdPjxiIHN0eWxlPSdtc28tYmlkaS1mb250LXdlaWdodDpub3JtYWwnPjxzcGFuDQps
+YW5nPUVOLUdCIHN0eWxlPSdmb250LXNpemU6MTAuMHB0O21zby1iaWRpLWZvbnQtc2l6ZToxMS4w
+cHQnPjxzcGFuDQpzdHlsZT0nbXNvLWVsZW1lbnQ6ZmllbGQtYmVnaW4nPjwvc3Bhbj48c3Bhbg0K
+c3R5bGU9J21zby1zcGFjZXJ1bjp5ZXMnPsKgPC9zcGFuPlBBR0U8c3BhbiBzdHlsZT0nbXNvLXNw
+YWNlcnVuOnllcyc+wqDCoA0KPC9zcGFuPlwqIE1FUkdFRk9STUFUIDxzcGFuIHN0eWxlPSdtc28t
+ZWxlbWVudDpmaWVsZC1zZXBhcmF0b3InPjwvc3Bhbj48L3NwYW4+PC9iPjwhW2VuZGlmXS0tPjxi
+DQpzdHlsZT0nbXNvLWJpZGktZm9udC13ZWlnaHQ6bm9ybWFsJz48c3BhbiBsYW5nPUVOLUdCIHN0
+eWxlPSdmb250LXNpemU6MTAuMHB0Ow0KbXNvLWJpZGktZm9udC1zaXplOjExLjBwdCc+PHNwYW4g
+c3R5bGU9J21zby1uby1wcm9vZjp5ZXMnPjI8L3NwYW4+PC9zcGFuPjwvYj48IS0tW2lmIHN1cHBv
+cnRGaWVsZHNdPjxiDQpzdHlsZT0nbXNvLWJpZGktZm9udC13ZWlnaHQ6bm9ybWFsJz48c3BhbiBs
+YW5nPUVOLUdCIHN0eWxlPSdmb250LXNpemU6MTAuMHB0Ow0KbXNvLWJpZGktZm9udC1zaXplOjEx
+LjBwdCc+PHNwYW4gc3R5bGU9J21zby1lbGVtZW50OmZpZWxkLWVuZCc+PC9zcGFuPjwvc3Bhbj48
+L2I+PCFbZW5kaWZdLS0+PHNwYW4NCmxhbmc9RU4tR0Igc3R5bGU9J2ZvbnQtc2l6ZToxMC4wcHQ7
+bXNvLWJpZGktZm9udC1zaXplOjExLjBwdCc+PHNwYW4NCnN0eWxlPSdtc28tdGFiLWNvdW50OjEn
+PsKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqAg
+PC9zcGFuPsKpDQpJU08mbmJzcDsyMDE5Jm5ic3A74oCTIEFsbCByaWdodHMgcmVzZXJ2ZWQ8bzpw
+PjwvbzpwPjwvc3Bhbj48L3A+DQoNCjwvZGl2Pg0KDQo8ZGl2IHN0eWxlPSdtc28tZWxlbWVudDpo
+ZWFkZXInIGlkPWVoMj4NCg0KPHAgY2xhc3M9TXNvSGVhZGVyIGFsaWduPWxlZnQgc3R5bGU9J3Rl
+eHQtYWxpZ246bGVmdDtsaW5lLWhlaWdodDoxMi4wcHQ7DQptc28tbGluZS1oZWlnaHQtcnVsZTpl
+eGFjdGx5Jz48c3BhbiBsYW5nPUVOLUdCPklTTyAyMTE5ODoyMDE5OjIwMTkoRSk8L3NwYW4+PC9w
+Pg0KDQo8L2Rpdj4NCg0KPGRpdiBzdHlsZT0nbXNvLWVsZW1lbnQ6aGVhZGVyJyBpZD1oMj4NCg0K
+PHAgY2xhc3M9TXNvSGVhZGVyIGFsaWduPXJpZ2h0IHN0eWxlPSd0ZXh0LWFsaWduOnJpZ2h0O2xp
+bmUtaGVpZ2h0OjEyLjBwdDsNCm1zby1saW5lLWhlaWdodC1ydWxlOmV4YWN0bHknPjxzcGFuIGxh
+bmc9RU4tR0I+SVNPIDIxMTk4OjIwMTk6MjAxOShFKTwvc3Bhbj48L3A+DQoNCjwvZGl2Pg0KDQo8
+ZGl2IHN0eWxlPSdtc28tZWxlbWVudDpmb290ZXInIGlkPWVmMj4NCg0KPHAgY2xhc3M9TXNvRm9v
+dGVyIHN0eWxlPSdsaW5lLWhlaWdodDoxMi4wcHQ7bXNvLWxpbmUtaGVpZ2h0LXJ1bGU6ZXhhY3Rs
+eSc+PCEtLVtpZiBzdXBwb3J0RmllbGRzXT48c3Bhbg0KbGFuZz1FTi1HQiBzdHlsZT0nZm9udC1z
+aXplOjEwLjBwdDttc28tYmlkaS1mb250LXNpemU6MTEuMHB0Jz48c3Bhbg0Kc3R5bGU9J21zby1l
+bGVtZW50OmZpZWxkLWJlZ2luJz48L3NwYW4+PHNwYW4NCnN0eWxlPSdtc28tc3BhY2VydW46eWVz
+Jz7CoDwvc3Bhbj5QQUdFPHNwYW4gc3R5bGU9J21zby1zcGFjZXJ1bjp5ZXMnPsKgwqANCjwvc3Bh
+bj5cKiBNRVJHRUZPUk1BVCA8c3BhbiBzdHlsZT0nbXNvLWVsZW1lbnQ6ZmllbGQtc2VwYXJhdG9y
+Jz48L3NwYW4+PC9zcGFuPjwhW2VuZGlmXS0tPjxzcGFuDQpsYW5nPUVOLUdCIHN0eWxlPSdmb250
+LXNpemU6MTAuMHB0O21zby1iaWRpLWZvbnQtc2l6ZToxMS4wcHQnPjxzcGFuDQpzdHlsZT0nbXNv
+LW5vLXByb29mOnllcyc+aWk8L3NwYW4+PC9zcGFuPjwhLS1baWYgc3VwcG9ydEZpZWxkc10+PHNw
+YW4NCmxhbmc9RU4tR0Igc3R5bGU9J2ZvbnQtc2l6ZToxMC4wcHQ7bXNvLWJpZGktZm9udC1zaXpl
+OjExLjBwdCc+PHNwYW4NCnN0eWxlPSdtc28tZWxlbWVudDpmaWVsZC1lbmQnPjwvc3Bhbj48L3Nw
+YW4+PCFbZW5kaWZdLS0+PHNwYW4gbGFuZz1FTi1HQg0Kc3R5bGU9J2ZvbnQtc2l6ZToxMC4wcHQ7
+bXNvLWJpZGktZm9udC1zaXplOjExLjBwdCc+PHNwYW4gc3R5bGU9J21zby10YWItY291bnQ6DQox
+Jz7CoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+IDwvc3Bhbj7CqQ0KSVNPJm5ic3A7MjAxOSZuYnNwO+KAkyBBbGwgcmlnaHRzIHJlc2VydmVkPG86
+cD48L286cD48L3NwYW4+PC9wPg0KDQo8L2Rpdj4NCg0KPGRpdiBzdHlsZT0nbXNvLWVsZW1lbnQ6
+Zm9vdGVyJyBpZD1mMj4NCg0KPHAgY2xhc3M9TXNvRm9vdGVyIHN0eWxlPSdsaW5lLWhlaWdodDox
+Mi4wcHQnPjxzcGFuIGxhbmc9RU4tR0INCnN0eWxlPSdmb250LXNpemU6MTAuMHB0O21zby1iaWRp
+LWZvbnQtc2l6ZToxMS4wcHQnPsKpIElTTyZuYnNwOzIwMTkmbmJzcDvigJMgQWxsDQpyaWdodHMg
+cmVzZXJ2ZWQ8c3BhbiBzdHlsZT0nbXNvLXRhYi1jb3VudDoxJz7CoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoCA8L3NwYW4+PC9zcGFuPjwhLS1baWYg
+c3VwcG9ydEZpZWxkc10+PHNwYW4NCmxhbmc9RU4tR0Igc3R5bGU9J2ZvbnQtc2l6ZToxMC4wcHQ7
+bXNvLWJpZGktZm9udC1zaXplOjExLjBwdCc+PHNwYW4NCnN0eWxlPSdtc28tZWxlbWVudDpmaWVs
+ZC1iZWdpbic+PC9zcGFuPiBQQUdFPHNwYW4gc3R5bGU9J21zby1zcGFjZXJ1bjp5ZXMnPsKgwqAN
+Cjwvc3Bhbj5cKiBNRVJHRUZPUk1BVCA8c3BhbiBzdHlsZT0nbXNvLWVsZW1lbnQ6ZmllbGQtc2Vw
+YXJhdG9yJz48L3NwYW4+PC9zcGFuPjwhW2VuZGlmXS0tPjxzcGFuDQpsYW5nPUVOLUdCIHN0eWxl
+PSdmb250LXNpemU6MTAuMHB0O21zby1iaWRpLWZvbnQtc2l6ZToxMS4wcHQnPjxzcGFuDQpzdHls
+ZT0nbXNvLW5vLXByb29mOnllcyc+aWlpPC9zcGFuPjwvc3Bhbj48IS0tW2lmIHN1cHBvcnRGaWVs
+ZHNdPjxzcGFuDQpsYW5nPUVOLUdCIHN0eWxlPSdmb250LXNpemU6MTAuMHB0O21zby1iaWRpLWZv
+bnQtc2l6ZToxMS4wcHQnPjxzcGFuDQpzdHlsZT0nbXNvLWVsZW1lbnQ6ZmllbGQtZW5kJz48L3Nw
+YW4+PC9zcGFuPjwhW2VuZGlmXS0tPjxzcGFuIGxhbmc9RU4tR0INCnN0eWxlPSdmb250LXNpemU6
+MTAuMHB0O21zby1iaWRpLWZvbnQtc2l6ZToxMS4wcHQnPjxvOnA+PC9vOnA+PC9zcGFuPjwvcD4N
+Cg0KPC9kaXY+DQoNCjxkaXYgc3R5bGU9J21zby1lbGVtZW50OmZvb3RlcicgaWQ9ZWYzPg0KDQo8
+cCBjbGFzcz1Nc29Gb290ZXIgc3R5bGU9J21hcmdpbi10b3A6MTIuMHB0O2xpbmUtaGVpZ2h0OjEy
+LjBwdDttc28tbGluZS1oZWlnaHQtcnVsZToNCmV4YWN0bHknPjwhLS1baWYgc3VwcG9ydEZpZWxk
+c10+PGIgc3R5bGU9J21zby1iaWRpLWZvbnQtd2VpZ2h0Om5vcm1hbCc+PHNwYW4NCmxhbmc9RU4t
+R0Igc3R5bGU9J2ZvbnQtc2l6ZToxMC4wcHQ7bXNvLWJpZGktZm9udC1zaXplOjExLjBwdCc+PHNw
+YW4NCnN0eWxlPSdtc28tZWxlbWVudDpmaWVsZC1iZWdpbic+PC9zcGFuPjxzcGFuDQpzdHlsZT0n
+bXNvLXNwYWNlcnVuOnllcyc+wqA8L3NwYW4+UEFHRTxzcGFuIHN0eWxlPSdtc28tc3BhY2VydW46
+eWVzJz7CoMKgDQo8L3NwYW4+XCogTUVSR0VGT1JNQVQgPHNwYW4gc3R5bGU9J21zby1lbGVtZW50
+OmZpZWxkLXNlcGFyYXRvcic+PC9zcGFuPjwvc3Bhbj48L2I+PCFbZW5kaWZdLS0+PGINCnN0eWxl
+PSdtc28tYmlkaS1mb250LXdlaWdodDpub3JtYWwnPjxzcGFuIGxhbmc9RU4tR0Igc3R5bGU9J2Zv
+bnQtc2l6ZToxMC4wcHQ7DQptc28tYmlkaS1mb250LXNpemU6MTEuMHB0Jz48c3BhbiBzdHlsZT0n
+bXNvLW5vLXByb29mOnllcyc+Mjwvc3Bhbj48L3NwYW4+PC9iPjwhLS1baWYgc3VwcG9ydEZpZWxk
+c10+PGINCnN0eWxlPSdtc28tYmlkaS1mb250LXdlaWdodDpub3JtYWwnPjxzcGFuIGxhbmc9RU4t
+R0Igc3R5bGU9J2ZvbnQtc2l6ZToxMC4wcHQ7DQptc28tYmlkaS1mb250LXNpemU6MTEuMHB0Jz48
+c3BhbiBzdHlsZT0nbXNvLWVsZW1lbnQ6ZmllbGQtZW5kJz48L3NwYW4+PC9zcGFuPjwvYj48IVtl
+bmRpZl0tLT48c3Bhbg0KbGFuZz1FTi1HQiBzdHlsZT0nZm9udC1zaXplOjEwLjBwdDttc28tYmlk
+aS1mb250LXNpemU6MTEuMHB0Jz48c3Bhbg0Kc3R5bGU9J21zby10YWItY291bnQ6MSc+wqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoCA8L3NwYW4+
+wqkNCklTTyZuYnNwOzIwMTkmbmJzcDvigJMgQWxsIHJpZ2h0cyByZXNlcnZlZDxvOnA+PC9vOnA+
+PC9zcGFuPjwvcD4NCg0KPC9kaXY+DQoNCjxkaXYgc3R5bGU9J21zby1lbGVtZW50OmZvb3Rlcicg
+aWQ9ZjM+DQoNCjxwIGNsYXNzPU1zb0Zvb3RlciBzdHlsZT0nbGluZS1oZWlnaHQ6MTIuMHB0Jz48
+c3BhbiBsYW5nPUVOLUdCDQpzdHlsZT0nZm9udC1zaXplOjEwLjBwdDttc28tYmlkaS1mb250LXNp
+emU6MTEuMHB0Jz7CqSBJU08mbmJzcDsyMDE5Jm5ic3A74oCTIEFsbA0KcmlnaHRzIHJlc2VydmVk
+PHNwYW4gc3R5bGU9J21zby10YWItY291bnQ6MSc+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoCA8L3NwYW4+PC9zcGFuPjwhLS1baWYgc3VwcG9y
+dEZpZWxkc10+PGINCnN0eWxlPSdtc28tYmlkaS1mb250LXdlaWdodDpub3JtYWwnPjxzcGFuIGxh
+bmc9RU4tR0Igc3R5bGU9J2ZvbnQtc2l6ZToxMC4wcHQ7DQptc28tYmlkaS1mb250LXNpemU6MTEu
+MHB0Jz48c3BhbiBzdHlsZT0nbXNvLWVsZW1lbnQ6ZmllbGQtYmVnaW4nPjwvc3Bhbj4NClBBR0U8
+c3BhbiBzdHlsZT0nbXNvLXNwYWNlcnVuOnllcyc+wqDCoCA8L3NwYW4+XCogTUVSR0VGT1JNQVQg
+PHNwYW4NCnN0eWxlPSdtc28tZWxlbWVudDpmaWVsZC1zZXBhcmF0b3InPjwvc3Bhbj48L3NwYW4+
+PC9iPjwhW2VuZGlmXS0tPjxiDQpzdHlsZT0nbXNvLWJpZGktZm9udC13ZWlnaHQ6bm9ybWFsJz48
+c3BhbiBsYW5nPUVOLUdCIHN0eWxlPSdmb250LXNpemU6MTAuMHB0Ow0KbXNvLWJpZGktZm9udC1z
+aXplOjExLjBwdCc+PHNwYW4gc3R5bGU9J21zby1uby1wcm9vZjp5ZXMnPjM8L3NwYW4+PC9zcGFu
+PjwvYj48IS0tW2lmIHN1cHBvcnRGaWVsZHNdPjxiDQpzdHlsZT0nbXNvLWJpZGktZm9udC13ZWln
+aHQ6bm9ybWFsJz48c3BhbiBsYW5nPUVOLUdCIHN0eWxlPSdmb250LXNpemU6MTAuMHB0Ow0KbXNv
+LWJpZGktZm9udC1zaXplOjExLjBwdCc+PHNwYW4gc3R5bGU9J21zby1lbGVtZW50OmZpZWxkLWVu
+ZCc+PC9zcGFuPjwvc3Bhbj48L2I+PCFbZW5kaWZdLS0+PHNwYW4NCmxhbmc9RU4tR0Igc3R5bGU9
+J2ZvbnQtc2l6ZToxMC4wcHQ7bXNvLWJpZGktZm9udC1zaXplOjExLjBwdCc+PG86cD48L286cD48
+L3NwYW4+PC9wPg0KDQo8L2Rpdj4NCg0KPGRpdiBzdHlsZT0nbXNvLWVsZW1lbnQ6Zm9vdGVyJyBp
+ZD1mND4NCg0KPHAgY2xhc3M9TXNvRm9vdGVyPjxiIHN0eWxlPSdtc28tYmlkaS1mb250LXdlaWdo
+dDpub3JtYWwnPjxzcGFuPklDUyBYWFg8bzpwPjwvbzpwPjwvc3Bhbj48L2I+PC9wPg0KDQo8cCBj
+bGFzcz1Nc29Gb290ZXIgc3R5bGU9J21hcmdpbi10b3A6MGNtJz48c3BhbiBsYW5nPUVOLUFVIHN0
+eWxlPSdmb250LXNpemU6DQoxMC4wcHQ7bXNvLWFuc2ktbGFuZ3VhZ2U6RU4tQVUnPlByaWNlIGJh
+c2VkIG9uIDwvc3Bhbj48IS0tW2lmIHN1cHBvcnRGaWVsZHNdPjxzcGFuDQpsYW5nPUVOLUFVIHN0
+eWxlPSdmb250LXNpemU6MTAuMHB0O21zby1hbnNpLWxhbmd1YWdlOkVOLUFVJz48c3Bhbg0Kc3R5
+bGU9J21zby1lbGVtZW50OmZpZWxkLWJlZ2luJz48L3NwYW4+PHNwYW4gc3R5bGU9J21zby1zcGFj
+ZXJ1bjp5ZXMnPsKgPC9zcGFuPk5VTVBBR0VTPHNwYW4NCnN0eWxlPSdtc28tc3BhY2VydW46eWVz
+Jz7CoCA8L3NwYW4+XCogTUVSR0VGT1JNQVQgPHNwYW4gc3R5bGU9J21zby1lbGVtZW50OmZpZWxk
+LXNlcGFyYXRvcic+PC9zcGFuPjwvc3Bhbj48IVtlbmRpZl0tLT48c3Bhbg0KbGFuZz1FTi1BVSBz
+dHlsZT0nZm9udC1zaXplOjEwLjBwdDttc28tYW5zaS1sYW5ndWFnZTpFTi1BVSc+PHNwYW4NCnN0
+eWxlPSdtc28tbm8tcHJvb2Y6eWVzJz4yNjwvc3Bhbj48L3NwYW4+PCEtLVtpZiBzdXBwb3J0Rmll
+bGRzXT48c3Bhbg0KbGFuZz1FTi1BVSBzdHlsZT0nZm9udC1zaXplOjEwLjBwdDttc28tYW5zaS1s
+YW5ndWFnZTpFTi1BVSc+PHNwYW4NCnN0eWxlPSdtc28tZWxlbWVudDpmaWVsZC1lbmQnPjwvc3Bh
+bj48L3NwYW4+PCFbZW5kaWZdLS0+PHNwYW4gbGFuZz1FTi1BVQ0Kc3R5bGU9J2ZvbnQtc2l6ZTox
+MC4wcHQ7bXNvLWFuc2ktbGFuZ3VhZ2U6RU4tQVUnPiBwYWdlczxvOnA+PC9vOnA+PC9zcGFuPjwv
+cD4NCg0KPHAgY2xhc3M9TXNvRm9vdGVyPjxzcGFuIGxhbmc9RU4tQVUgc3R5bGU9J2ZvbnQtc2l6
+ZToxMC4wcHQ7Jz7CqQ0KSVNPJm5ic3A7MjAxOSZuYnNwO+KAkyBBbGwgcmlnaHRzIHJlc2VydmVk
+PG86cD48L286cD48L3NwYW4+PC9wPg0KDQo8L2Rpdj4NCg0KDQoNCjwvYm9keT4NCg0KPC9odG1s
+Pg0K
+
+------=_NextPart_e3b579eb.9724.4dc8--
