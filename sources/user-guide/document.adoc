@@ -1,5 +1,5 @@
 = ISO Geodetic Registry User Guide Version 1.6
-:docnumber: 21199
+:docnumber: XXXX2
 :tc-document-number: 9999
 :edition: 2
 :copyright-year: 2019

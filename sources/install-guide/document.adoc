@@ -1,5 +1,5 @@
 = ISO Geodetic Registry Installation Guide
-:docnumber: 21198
+:docnumber: XXXX1
 :tc-document-number: 9998
 :edition: 2
 :copyright-year: 2019
