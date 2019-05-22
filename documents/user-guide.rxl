@@ -7,11 +7,11 @@
     <title-intro language="fr" format="text/plain">Information géographique</title-intro>
     <title-main language="fr" format="text/plain">Guide de l’utilisateur du registre géodésique</title-main>
   </title>
-  <docidentifier type="iso">ISO 21199:2019</docidentifier>
+  <docidentifier type="iso">ISO XXXX2:2019</docidentifier>
   <docidentifier type="iso-structured">
-    <project-number>ISO 21199</project-number>
+    <project-number>ISO XXXX2</project-number>
   </docidentifier>
-  <docnumber>21199</docnumber>
+  <docnumber>XXXX2</docnumber>
   <contributor>
     <role type="author"/>
     <organization>
